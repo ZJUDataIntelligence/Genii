@@ -1,9 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-05-20 11:50:32,226950,2,iPhone 6,52.652455555556,5.0813805555556,Yes,"44, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AL, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-1,2021-05-20 11:53:24,167106,2,iPhone 6,52.653275,5.0821111111111,Yes,"41, Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KD, The Netherlands",2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
-2,2021-05-20 11:54:05,179663,2,iPhone 6,52.653277777778,5.0823166666667,Yes,"43, Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KE, The Netherlands",2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-3,2021-05-20 11:54:07,176294,2,iPhone 6,52.653069444444,5.0822,Yes,"46, Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KE, The Netherlands",2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-4,2021-05-20 11:54:59,259618,2,iPhone 6,52.653869444444,5.0818444444444,No,"800, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AE, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-5,2021-05-20 11:55:23,256927,2,iPhone 6,52.653705555556,5.0822222222222,Yes,"30, Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-6,2021-05-20 11:55:55,162567,2,iPhone 6,52.653808333333,5.0823,Yes,"30, Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KD, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-7,2021-05-20 11:56:24,278522,2,iPhone 6,52.653858333333,5.0824638888889,Yes,"29, Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

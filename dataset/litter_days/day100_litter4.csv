@@ -1,8 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-06-27 07:51:31,264998,2,iPhone 6,52.651863888889,5.0858222222222,No,"Marmaris, Aagje Dekenplein, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NH, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-1,2021-06-27 16:32:08,178540,2,iPhone 6,52.651561111111,5.0867666666667,Yes,"Aagje Dekenplein, Marquettegracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LS, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-2,2021-06-27 16:32:41,178541,2,iPhone 6,52.651505555556,5.0862444444444,Yes,"110, Aagje Dekenplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NZ, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-3,2021-06-27 16:34:16,254371,2,iPhone 6,52.651191666667,5.0859694444444,Yes,"Marquettegracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LS, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-4,2021-06-27 16:35:03,178346,2,iPhone 6,52.6511,5.0854833333333,Yes,"Mina Krusemanstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NZ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-5,2021-06-27 16:35:40,254605,2,iPhone 6,52.650988888889,5.0856666666667,Yes,"Marquettegracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LS, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-6,2021-06-27 16:36:20,227187,2,iPhone 6,52.651016666667,5.08565,Yes,"Marquettegracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LS, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

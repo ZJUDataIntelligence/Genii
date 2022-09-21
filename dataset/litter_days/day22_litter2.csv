@@ -1,5 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-03-05 14:17:59,255446,2,iPhone 6,52.649708333333,5.0940777777778,Yes,"800, Dubloen, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628RV, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-1,2021-03-05 14:18:45,259615,2,iPhone 6,52.649780555556,5.0948,No,"Scheldeweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628RR, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-2,2021-03-05 14:31:19,179640,2,iPhone 6,52.651505555556,5.0903444444444,Yes,"43, Acacia, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628MJ, The Netherlands",2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-3,2021-03-05 14:31:21,176684,2,iPhone 6,52.651505555556,5.0903444444444,Yes,"43, Acacia, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628MJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

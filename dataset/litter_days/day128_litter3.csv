@@ -1,9 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-08-18 10:27:30,255480,2,iPhone 6,52.652941666667,5.0814361111111,Yes,"23, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-1,2021-08-18 10:28:24,254176,2,iPhone 6,52.652594444444,5.0818222222222,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-2,2021-08-18 10:29:06,223364,2,iPhone 6,52.652772222222,5.0817111111111,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-3,2021-08-18 11:28:14,227727,2,iPhone 6,52.651766666667,5.0809555555556,Yes,"56, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-4,2021-08-18 11:29:22,257224,2,iPhone 6,52.651680555556,5.0818055555556,Yes,"Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-5,2021-08-18 11:30:19,221504,2,iPhone 6,52.652069444444,5.0819277777778,Yes,"51, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AC, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-6,2021-08-18 11:32:12,223367,2,iPhone 6,52.651538888889,5.0817083333333,Yes,"1, Stijl, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628HA, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-7,2021-08-18 11:33:14,222353,2,iPhone 6,52.65215,5.0819027777778,Yes,"40, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AC, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

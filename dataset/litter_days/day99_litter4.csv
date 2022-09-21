@@ -1,9 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-06-26 12:24:05,176652,2,iPhone 6,52.653288888889,5.0777611111111,Yes,"10, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CG, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-1,2021-06-26 12:24:07,228301,2,iPhone 6,52.653252777778,5.0774055555556,Yes,"1, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CT, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-2,2021-06-26 12:24:40,176653,2,iPhone 6,52.653313888889,5.0774611111111,Yes,"1, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CT, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-3,2021-06-26 12:25:07,178913,2,iPhone 6,52.653011111111,5.076925,Yes,"13, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CG, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-4,2021-06-26 12:26:16,176534,2,iPhone 6,52.653366666667,5.0769777777778,Yes,"44, Kluut, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CB, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-5,2021-06-26 12:26:25,176361,2,iPhone 6,52.653366666667,5.0769777777778,Yes,"44, Kluut, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CB, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-6,2021-06-26 12:27:06,258647,2,iPhone 6,52.653430555556,5.077,Yes,"44, Kluut, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CB, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-7,2021-06-26 12:29:24,256638,2,iPhone 6,52.650872222222,5.0783111111111,Yes,"67, Rietzanger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CN, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0

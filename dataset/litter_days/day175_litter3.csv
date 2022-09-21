@@ -1,8 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-11-03 10:31:05,253858,2,iPhone 6,52.653552777778,5.0839138888889,Yes,"19, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-1,2021-11-03 10:31:07,253859,2,iPhone 6,52.653511111111,5.0829888888889,Yes,"3, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2,2021-11-03 10:31:10,253749,2,iPhone 6,52.653583333333,5.0835916666667,Yes,"20, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-3,2021-11-03 10:31:11,255675,2,iPhone 6,52.653611111111,5.0835472222222,Yes,"23, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0
-4,2021-11-03 10:31:17,252852,2,iPhone 6,52.653611111111,5.0836861111111,Yes,"20, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-5,2021-11-03 10:31:20,254079,2,iPhone 6,52.653611111111,5.0836861111111,Yes,"20, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-6,2021-11-03 10:38:14,255699,2,iPhone 6,52.654166666667,5.0830527777778,Yes,"13, Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KC, Netherlands",2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0

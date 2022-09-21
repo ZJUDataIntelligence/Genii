@@ -1,7 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-08-20 16:34:56,258358,2,iPhone 6,52.651802777778,5.0878972222222,Yes,"Brederodegracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LZ, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1,2021-08-20 16:36:53,223399,2,iPhone 6,52.651402777778,5.0870722222222,Yes,"Marquettegracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LS, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-2,2021-08-20 16:38:05,222402,2,iPhone 6,52.651741666667,5.0870666666667,Yes,"Aagje Dekenplein, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NK, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-3,2021-08-20 16:38:45,255203,2,iPhone 6,52.651763888889,5.0868361111111,Yes,"Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NK, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-4,2021-08-20 16:38:47,228450,2,iPhone 6,52.651805555556,5.08675,Yes,"Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NK, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-5,2021-08-20 16:54:17,257674,2,iPhone 6,52.651005555556,5.0879888888889,Yes,"13, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628MH, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

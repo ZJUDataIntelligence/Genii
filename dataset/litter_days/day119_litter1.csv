@@ -1,8 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-07-21 10:46:53,223255,2,iPhone 6,52.646075,5.0690305555556,Yes,"36, Emmalaan, Hoorn, North Holland, Netherlands, 1623MC, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-1,2021-07-21 10:47:24,227704,2,iPhone 6,52.645630555556,5.0679777777778,Yes,"De Wissel SBO, 1, Wilhelminalaan, Hoorn, North Holland, Netherlands, 1623MA, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-2,2021-07-21 10:47:49,223256,2,iPhone 6,52.646102777778,5.0694166666667,Yes,"34, Emmalaan, Hoorn, North Holland, Netherlands, 1623MC, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-3,2021-07-21 10:48:40,227989,2,iPhone 6,52.645980555556,5.07055,Yes,"28, Emmalaan, Hoorn, North Holland, Netherlands, 1623MC, Netherlands",3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0
-4,2021-07-21 10:48:42,228170,2,iPhone 6,52.645980555556,5.07055,Yes,"28, Emmalaan, Hoorn, North Holland, Netherlands, 1623MC, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-5,2021-07-21 10:49:10,222182,2,iPhone 6,52.645938888889,5.0707722222222,Yes,"28, Emmalaan, Hoorn, North Holland, Netherlands, 1623MC, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-6,2021-07-21 10:49:53,227705,2,iPhone 6,52.645847222222,5.0722555555556,Yes,"20A, Emmalaan, Hoorn, North Holland, Netherlands, 1623MC, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0

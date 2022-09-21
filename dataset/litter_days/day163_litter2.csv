@@ -1,7 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-10-13 13:59:03,258272,2,iPhone 6,52.650272222222,5.0973055555556,Yes,"20, Diepenbrockhof, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628SL, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1,2021-10-13 13:59:57,258273,2,iPhone 6,52.650447222222,5.09735,Yes,"21, Diepenbrockhof, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628SL, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2,2021-10-13 14:02:40,227802,2,iPhone 6,52.650558333333,5.0969305555556,Yes,"Oosterscheldeweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628SL, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-3,2021-10-13 14:06:15,253698,2,iPhone 6,52.652847222222,5.0983388888889,Yes,"Oosterscheldeweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628TP, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
-4,2021-10-13 14:21:59,227803,2,iPhone 6,52.653225,5.0979694444444,Yes,"10, Stan Kentonhof, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628TP, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-5,2021-10-13 14:22:30,256617,2,iPhone 6,52.653469444444,5.0983444444444,Yes,"Albert Heijn, 88, Stan Kentonhof, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628TR, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0

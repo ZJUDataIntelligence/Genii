@@ -1,8 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-05-07 09:38:03,226925,2,iPhone 6,52.652991666667,5.0851138888889,Yes,"Damaris Hairsalon, 1A, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-1,2021-05-07 09:38:42,227046,2,iPhone 6,52.652833333333,5.08525,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-2,2021-05-07 09:39:25,172120,2,iPhone 6,52.652752777778,5.0852388888889,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-3,2021-05-07 09:40:53,259741,2,iPhone 6,52.652838888889,5.0851055555556,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-4,2021-05-07 09:53:59,256192,2,iPhone 6,52.652772222222,5.0844944444444,Yes,"40, Betje Wolffplein, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-5,2021-05-07 09:54:08,163252,2,iPhone 6,52.652758333333,5.0845333333333,Yes,"40, Betje Wolffplein, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NB, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-6,2021-05-07 09:54:10,163419,2,iPhone 6,52.652758333333,5.0845333333333,Yes,"40, Betje Wolffplein, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

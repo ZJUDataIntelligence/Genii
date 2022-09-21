@@ -1,5 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-05-03 12:08:28,258938,2,iPhone 6,52.652466666667,5.085875,Yes,"Blokker, 164-167, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NK, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1,2021-05-03 12:08:30,162657,2,iPhone 6,52.652480555556,5.0856,Yes,"Weekmarkt Kersenboogerd, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-2,2021-05-03 12:09:34,259687,2,iPhone 6,52.651713888889,5.0842388888889,Yes,"32, Aletta Jacobsstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NP, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-3,2021-05-03 12:10:27,163403,2,iPhone 6,52.651211111111,5.0836777777778,Yes,"Stijl, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628HD, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

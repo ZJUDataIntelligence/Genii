@@ -1,8 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-12-12 16:23:29,278298,2,iPhone 6,52.651713888889,5.0755916666667,Yes,"MultiHerstel, 4, Lepelaar, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CZ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-1,2021-12-12 16:23:31,252950,2,iPhone 6,52.651516666667,5.0756111111111,Yes,"6, Lepelaar, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CZ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-2,2021-12-12 16:24:26,268120,2,iPhone 6,52.651680555556,5.0758166666667,Yes,"6, Lepelaar, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CZ, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-3,2021-12-12 16:25:30,268100,2,iPhone 6,52.652,5.0759777777778,Yes,"5, Lepelaar, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CZ, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-4,2021-12-12 16:25:32,268235,2,iPhone 6,52.651955555556,5.07605,Yes,"5, Lepelaar, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CZ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-5,2021-12-12 16:26:32,253999,2,iPhone 6,52.6516,5.0760916666667,Yes,"6, Lepelaar, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CZ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-6,2021-12-12 16:27:46,252951,2,iPhone 6,52.65155,5.0761222222222,Yes,"Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CK, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

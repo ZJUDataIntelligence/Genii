@@ -1,4 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-10-02 10:16:48,258329,2,iPhone 6,52.652636111111,5.0841166666667,Yes,"1, Mina Krusemanstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NL, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1,2021-10-02 10:18:44,258330,2,iPhone 6,52.652211111111,5.0831527777778,Yes,"Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NM, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2,2021-10-02 14:22:38,253708,2,iPhone 6,52.652758333333,5.0853083333333,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0

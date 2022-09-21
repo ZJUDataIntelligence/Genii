@@ -1,8 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-06-17 08:32:58,225746,2,iPhone 6,52.652472222222,5.0805083333333,Yes,"73, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-1,2021-06-17 08:33:00,255375,2,iPhone 6,52.652472222222,5.0805083333333,Yes,"73, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2,2021-06-17 08:36:06,178722,2,iPhone 6,52.654297222222,5.0809888888889,Yes,"Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AR, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-3,2021-06-17 08:58:03,172368,2,iPhone 6,52.652469444444,5.0813111111111,Yes,"44, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AL, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-4,2021-06-17 08:59:03,172542,2,iPhone 6,52.652286111111,5.0799638888889,Yes,"Zaanweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-5,2021-06-17 08:59:42,258659,2,iPhone 6,52.652702777778,5.0793055555556,Yes,"90, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-6,2021-06-17 11:53:37,172545,2,iPhone 6,52.654491666667,5.08095,Yes,"153, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

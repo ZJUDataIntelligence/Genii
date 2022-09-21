@@ -1,9 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-02-21 12:58:03,259224,2,iPhone 6,52.654316666667,5.0704027777778,Yes,"Provincialeweg, Hoorn, North Holland, Netherlands, 1624HN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1,2021-02-21 12:59:02,225910,2,iPhone 6,52.655761111111,5.0693,Yes,"6, Leisteen, Hoorn, North Holland, Netherlands, 1625RX, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-2,2021-02-21 13:01:07,256881,2,iPhone 6,52.656188888889,5.0634138888889,Yes,"802, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625BV, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3,2021-02-21 13:02:11,172948,2,iPhone 6,52.657013888889,5.0625194444444,Yes,"Social Blue, 27, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, The Netherlands",2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-4,2021-02-21 13:03:06,259225,2,iPhone 6,52.657336111111,5.0620444444444,Yes,"Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625BW, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-5,2021-02-21 13:03:53,177606,2,iPhone 6,52.657427777778,5.0623361111111,Yes,"Tandartsenpraktijk Nieuwe Steen, 25-001, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-6,2021-02-21 13:38:57,131055,2,iPhone 6,52.65535,5.0644861111111,Yes,"Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-7,2021-02-21 13:39:31,177608,2,iPhone 6,52.655280555556,5.0646861111111,Yes,"Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

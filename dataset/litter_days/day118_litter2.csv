@@ -1,6 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-07-20 11:21:41,258264,2,iPhone 6,52.656547222222,5.0854388888889,Yes,"10, Maasweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628EA, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1,2021-07-20 11:21:42,254619,2,iPhone 6,52.656913888889,5.0851944444444,Yes,"1, Nachtegaal, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2,2021-07-20 11:22:30,227543,2,iPhone 6,52.657455555556,5.0849861111111,Yes,"Nachtegaal, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-3,2021-07-20 11:23:11,222167,2,iPhone 6,52.657833333333,5.0854555555556,Yes,"IJsselweg, Blokker, Hoorn, North Holland, Netherlands, 1695AZ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-4,2021-07-20 11:31:32,254898,2,iPhone 6,52.660177777778,5.0855472222222,Yes,"Ben de Haan, 129A, Westerblokker, Blokker, Hoorn, North Holland, Netherlands, 1695AD, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

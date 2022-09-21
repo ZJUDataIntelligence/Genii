@@ -1,8 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-04-13 14:59:00,179196,2,iPhone 6,52.645755555556,5.0733944444444,Yes,"22, Willem de Zwijgerlaan, Hoorn, North Holland, Netherlands, 1623MH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-1,2021-04-13 14:59:26,259044,2,iPhone 6,52.645377777778,5.0732194444444,Yes,"Sportcomplex Wilhelminapark, Sportlaan, Hoorn, North Holland, Netherlands, 1623MC, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2,2021-04-13 15:00:01,257219,2,iPhone 6,52.645663888889,5.0736083333333,Yes,"1, Sportlaan, Hoorn, North Holland, Netherlands, 1623ML, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-3,2021-04-13 15:01:31,139841,2,iPhone 6,52.64655,5.075975,No,"17, Sportlaan, Hoorn, North Holland, Netherlands, 1623ML, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-4,2021-04-13 15:03:09,225761,2,iPhone 6,52.648361111111,5.0764861111111,Yes,"Sauna Suomi, 6, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-5,2021-04-13 15:03:48,139842,2,iPhone 6,52.648452777778,5.0767388888889,No,"Sauna Suomi, 6, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-6,2021-04-13 15:04:57,227018,2,iPhone 6,52.649369444444,5.07815,Yes,"31, Gording, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628JB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

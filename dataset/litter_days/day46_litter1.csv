@@ -1,9 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-04-15 09:35:22,259037,2,iPhone 6,52.652808333333,5.0850611111111,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1,2021-04-15 09:36:01,179211,2,iPhone 6,52.652911111111,5.0852916666667,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-2,2021-04-15 09:37:23,163697,2,iPhone 6,52.652758333333,5.0854722222222,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NW, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-3,2021-04-15 09:37:55,163698,2,iPhone 6,52.652869444444,5.0849,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-4,2021-04-15 09:38:49,163699,2,iPhone 6,52.652788888889,5.0842305555556,Yes,"40, Betje Wolffplein, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-5,2021-04-15 09:38:51,259038,2,iPhone 6,52.652788888889,5.0842305555556,Yes,"40, Betje Wolffplein, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NB, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-6,2021-04-15 12:05:11,163711,2,iPhone 6,52.652277777778,5.0848583333333,Yes,"54, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-7,2021-04-15 12:05:49,227148,2,iPhone 6,52.652291666667,5.0843416666667,Yes,"8, Mina Krusemanstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NL, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

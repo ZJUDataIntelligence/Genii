@@ -1,6 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-08-23 12:22:47,222448,2,iPhone 6,52.653233333333,5.0673833333333,Yes,"Provincialeweg, Hoorn, North Holland, Netherlands, 1624HN, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-1,2021-08-23 12:24:48,254186,2,iPhone 6,52.652427777778,5.0645444444444,Yes,"Sint Chrispijnstraat, Hoorn, North Holland, Netherlands, 1624VV, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-2,2021-08-23 12:25:55,225798,2,iPhone 6,52.651191666667,5.0621444444444,Yes,"19, Goudsmidsstraat, Hoorn, North Holland, Netherlands, 1624VJ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-3,2021-08-23 12:28:46,225332,2,iPhone 6,52.647822222222,5.0567333333333,Yes,"81, Koepoortsweg, Hoorn, North Holland, Netherlands, 1624AC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-4,2021-08-23 13:30:57,226388,2,iPhone 6,52.642972222222,5.0641666666667,Yes,"Pakhuisstraat, Hoorn, North Holland, Netherlands, 1623LN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

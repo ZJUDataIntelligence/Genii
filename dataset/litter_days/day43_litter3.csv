@@ -1,6 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-04-12 09:28:27,163677,2,iPhone 6,52.647458333333,5.0596777777778,Yes,"14, Johannes Poststraat, Hoorn, North Holland, Netherlands, 1624CC, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-1,2021-04-12 10:00:27,143731,2,iPhone 6,52.646569444444,5.0528666666667,Yes,"Ondeelbaar verlangen, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-2,2021-04-12 10:01:24,256256,2,iPhone 6,52.646591666667,5.05465,No,"P+R, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1621HX, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-3,2021-04-12 10:03:48,178457,2,iPhone 6,52.649988888889,5.0586388888889,Yes,"Sportcentrum Vredehof, 5, Vredehofstraat, Hoorn, North Holland, Netherlands, 1624XG, The Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-4,2021-04-12 10:05:36,225753,2,iPhone 6,52.650261111111,5.0592055555556,Yes,"Abdulkadir Geylani, 7b, Vredehofstraat, Hoorn, North Holland, Netherlands, 1624XG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

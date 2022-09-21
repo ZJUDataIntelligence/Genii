@@ -1,8 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-08-21 08:41:13,254929,2,iPhone 6,52.654247222222,5.0828888888889,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1,2021-08-21 08:41:17,258370,2,iPhone 6,52.654216666667,5.0829,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2,2021-08-21 08:41:21,227406,2,iPhone 6,52.654216666667,5.0829027777778,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
-3,2021-08-21 08:41:23,225790,2,iPhone 6,52.654216666667,5.0829055555556,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-4,2021-08-21 08:41:24,225791,2,iPhone 6,52.654216666667,5.0829055555556,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-5,2021-08-21 10:14:21,222443,2,iPhone 6,52.651805555556,5.0863305555556,Yes,"Brainwash, 4, Aagje Dekenplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NX, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-6,2021-08-21 10:15:47,258371,2,iPhone 6,52.651669444444,5.0876027777778,Yes,"Brederodegracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LZ, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

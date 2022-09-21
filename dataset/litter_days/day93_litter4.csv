@@ -1,8 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-06-19 10:28:06,227518,2,iPhone 6,52.652427777778,5.0820583333333,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-1,2021-06-19 10:29:03,172870,2,iPhone 6,52.652752777778,5.0822638888889,Yes,"63, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, The Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2,2021-06-19 10:29:05,172103,2,iPhone 6,52.652816666667,5.0824777777778,Yes,"54, Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KE, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-3,2021-06-19 11:29:30,172126,2,iPhone 6,52.652480555556,5.0833805555556,Yes,"2, Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KA, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-4,2021-06-19 11:29:32,172872,2,iPhone 6,52.652480555556,5.0833805555556,Yes,"2, Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KA, The Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-5,2021-06-19 11:30:03,172127,2,iPhone 6,52.652241666667,5.0835555555556,Yes,"24, Mina Krusemanstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NM, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-6,2021-06-19 11:30:05,178729,2,iPhone 6,52.652416666667,5.0833916666667,Yes,"25, Mina Krusemanstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NM, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

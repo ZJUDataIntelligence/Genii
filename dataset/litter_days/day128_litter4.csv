@@ -1,9 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-08-18 11:35:29,258348,2,iPhone 6,52.653002777778,5.0840722222222,Yes,"20, Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KA, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1,2021-08-18 11:38:11,225767,2,iPhone 6,52.652838888889,5.0843444444444,Yes,"40, Betje Wolffplein, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-2,2021-08-18 11:38:38,222358,2,iPhone 6,52.653091666667,5.0839555555556,Yes,"19, Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KA, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-3,2021-08-18 11:39:49,227728,2,iPhone 6,52.653175,5.0846166666667,Yes,"De Schakel, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-4,2021-08-18 11:39:51,223374,2,iPhone 6,52.653216666667,5.0844166666667,Yes,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-5,2021-08-18 11:39:52,222360,2,iPhone 6,52.653216666667,5.0844166666667,Yes,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-6,2021-08-18 11:40:50,225768,2,iPhone 6,52.653522222222,5.0840833333333,Yes,"17, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-7,2021-08-18 11:41:26,227920,2,iPhone 6,52.653525,5.0844333333333,Yes,"22, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

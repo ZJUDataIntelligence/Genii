@@ -1,4 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-02-25 08:47:13,257381,2,iPhone 6,52.646733333333,5.0556583333333,Yes,"Haas, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624AH, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-1,2021-02-25 08:48:51,178637,2,iPhone 6,52.646305555556,5.0513444444444,Yes,"Albert Heijn, 19, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-2,2021-02-25 09:01:39,256215,2,iPhone 6,52.646594444444,5.0540527777778,Yes,"Dijklander Ziekenhuis, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

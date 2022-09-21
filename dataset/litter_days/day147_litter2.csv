@@ -1,8 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-09-10 12:53:57,222858,2,iPhone 6,52.655602777778,5.0679305555556,Yes,"Copernicus, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625RX, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-1,2021-09-10 12:54:20,222859,2,iPhone 6,52.655680555556,5.0681055555556,Yes,"Atlas College, locatie Copernicus, 11, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-2,2021-09-10 13:23:46,258509,2,iPhone 6,52.657008333333,5.0575166666667,Yes,"Poortwachter, Hoorn, North Holland, Netherlands, 1625HH, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3,2021-09-10 13:26:36,221672,2,iPhone 6,52.655327777778,5.0642833333333,Yes,"Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625BV, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-4,2021-09-10 13:26:38,258510,2,iPhone 6,52.655358333333,5.0643166666667,Yes,"Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625BV, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-5,2021-09-10 13:27:55,226851,2,iPhone 6,52.654358333333,5.0675027777778,Yes,"Huisartsenpraktijk Scheer, 10, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-6,2021-09-10 13:28:30,221673,2,iPhone 6,52.654452777778,5.0670944444444,Yes,"Octant Mondzorg, 8, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

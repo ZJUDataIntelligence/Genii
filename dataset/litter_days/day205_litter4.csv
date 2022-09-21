@@ -1,8 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-12-19 13:08:33,259422,2,iPhone 6,52.653805555556,5.0840277777778,Yes,"32, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1,2021-12-19 13:08:40,257651,2,iPhone 6,52.653994444444,5.0841,No,"30, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, Netherlands",11.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2,2021-12-19 13:10:09,252627,2,iPhone 6,52.653788888889,5.0837472222222,Yes,"20, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-3,2021-12-19 13:11:45,252741,2,iPhone 6,52.652797222222,5.0850638888889,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-4,2021-12-19 13:11:46,268126,2,iPhone 6,52.652797222222,5.0850638888889,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-5,2021-12-19 13:42:23,254047,2,iPhone 6,52.653391666667,5.0846305555556,Yes,"Hero Koffiecorner, Borstwering, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KR, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-6,2021-12-19 13:43:28,254048,2,iPhone 6,52.653522222222,5.0834111111111,Yes,"23, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0

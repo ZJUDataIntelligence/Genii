@@ -1,6 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-05-14 13:40:33,172072,2,iPhone 6,52.654730555556,5.0793305555556,Yes,"2, Lingeweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BA, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-1,2021-05-14 13:40:36,162544,2,iPhone 6,52.654713888889,5.07895,Yes,"Roerdomp, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-2,2021-05-14 13:40:38,176538,2,iPhone 6,52.654713888889,5.07895,Yes,"Roerdomp, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BH, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-3,2021-05-14 13:40:43,163461,2,iPhone 6,52.654747222222,5.0789944444444,Yes,"Roerdomp, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-4,2021-05-14 13:43:18,176331,2,iPhone 6,52.654872222222,5.0787166666667,Yes,"Roerdomp, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

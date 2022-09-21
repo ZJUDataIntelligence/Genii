@@ -1,9 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2022-03-20 10:02:06,279320,2,iPhone 13 mini,52.654571666667,5.0818805,Yes,"133, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AH, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-1,2022-03-20 10:04:02,272627,2,iPhone 13 mini,52.654216666667,5.0829278333333,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-2,2022-03-20 10:04:02,272626,2,iPhone 13 mini,52.654216666667,5.0829278333333,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-3,2022-03-20 10:04:03,272625,2,iPhone 13 mini,52.654216666667,5.082925,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-4,2022-03-20 10:04:04,272624,2,iPhone 13 mini,52.65422,5.0829333333333,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-5,2022-03-20 10:05:50,272620,2,iPhone 13 mini,52.654266666667,5.0831111666667,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-6,2022-03-20 10:05:52,272619,2,iPhone 13 mini,52.654266666667,5.0831028333333,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-7,2022-03-20 10:05:57,272618,2,iPhone 13 mini,52.65427,5.0830971666667,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0

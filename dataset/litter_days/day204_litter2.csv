@@ -1,7 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-12-18 14:04:53,252679,2,iPhone 6,52.649047222222,5.0888777777778,Yes,"122, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LG, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
-1,2021-12-18 14:05:02,257221,2,iPhone 6,52.649241666667,5.089275,Yes,"Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628MS, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-2,2021-12-18 14:07:49,252584,2,iPhone 6,52.648802777778,5.0893027777778,Yes,"162, Florijn, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628RP, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-3,2021-12-18 14:07:52,252585,2,iPhone 6,52.6489,5.0891638888889,Yes,"Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628MS, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-4,2021-12-18 14:07:56,252539,2,iPhone 6,52.648925,5.0891277777778,Yes,"Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628MS, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
-5,2021-12-18 14:08:44,254087,2,iPhone 6,52.648791666667,5.0887611111111,Yes,"Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628PN, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0

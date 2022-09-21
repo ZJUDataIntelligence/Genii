@@ -1,8 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-09-07 13:49:47,221543,2,iPhone 6,52.659858333333,5.0849611111111,Yes,"96, Westerblokker, Blokker, Hoorn, North Holland, Netherlands, 1695AK, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-1,2021-09-07 13:54:47,225408,2,iPhone 6,52.659863888889,5.0848944444444,Yes,"133, Westerblokker, Blokker, Hoorn, North Holland, Netherlands, 1695AD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-2,2021-09-07 13:55:32,256950,2,iPhone 6,52.659491666667,5.0840361111111,Yes,"96D, Westerblokker, Blokker, Hoorn, North Holland, Netherlands, 1695AK, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-3,2021-09-07 13:56:29,259567,2,iPhone 6,52.659183333333,5.0840333333333,Yes,"Maasweg, Blokker, Hoorn, North Holland, Netherlands, 1695AZ, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-4,2021-09-07 13:56:56,222712,2,iPhone 6,52.659263888889,5.0834944444444,Yes,"98, Westerblokker, Blokker, Hoorn, North Holland, Netherlands, 1695AK, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-5,2021-09-07 13:58:05,225409,2,iPhone 6,52.657947222222,5.0852388888889,Yes,"Maasweg, Blokker, Hoorn, North Holland, Netherlands, 1695AX, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-6,2021-09-07 13:58:07,228310,2,iPhone 6,52.657997222222,5.0852694444444,Yes,"Maasweg, Blokker, Hoorn, North Holland, Netherlands, 1695AX, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

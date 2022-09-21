@@ -1,9 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-02-25 08:42:53,172938,2,iPhone 6,52.648563888889,5.06335,Yes,"34, Johannes Poststraat, Hoorn, North Holland, Netherlands, 1624CD, The Netherlands",2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-1,2021-02-25 08:42:55,129728,2,iPhone 6,52.648613888889,5.0632166666667,Yes,"34, Johannes Poststraat, Hoorn, North Holland, Netherlands, 1624CD, The Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-2,2021-02-25 08:43:26,259254,2,iPhone 6,52.648525,5.0633361111111,Yes,"34, Johannes Poststraat, Hoorn, North Holland, Netherlands, 1624CD, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3,2021-02-25 08:44:15,257142,2,iPhone 6,52.648208333333,5.0625472222222,Yes,"900, Johannes Poststraat, Hoorn, North Holland, Netherlands, 1624CJ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-4,2021-02-25 08:44:17,177717,2,iPhone 6,52.648480555556,5.0622805555556,Yes,"Al Fath, 69a, Johannes Poststraat, Hoorn, North Holland, Netherlands, 1624CB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-5,2021-02-25 08:44:20,178958,2,iPhone 6,52.648430555556,5.062275,Yes,"Al Fath, 69a, Johannes Poststraat, Hoorn, North Holland, Netherlands, 1624CB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-6,2021-02-25 08:45:51,131506,2,iPhone 6,52.647591666667,5.0593138888889,Yes,"Jan Campertstraat, Hoorn, North Holland, Netherlands, 1624CA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-7,2021-02-25 08:45:53,178959,2,iPhone 6,52.647602777778,5.0592972222222,Yes,"Jan Campertstraat, Hoorn, North Holland, Netherlands, 1624CA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

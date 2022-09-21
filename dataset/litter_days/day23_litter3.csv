@@ -1,5 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-03-07 14:08:53,255539,2,iPhone 6,52.654644444444,5.0806611111111,Yes,"24, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-1,2021-03-07 14:10:59,257167,2,iPhone 6,52.658275,5.0818361111111,Yes,"IJsselweg, Blokker, Hoorn, North Holland, Netherlands, 1695AZ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-2,2021-03-07 14:12:03,254175,2,iPhone 6,52.654911111111,5.0801,Yes,"136, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BG, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-3,2021-03-07 14:12:05,254790,2,iPhone 6,52.654963888889,5.0803083333333,Yes,"134, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

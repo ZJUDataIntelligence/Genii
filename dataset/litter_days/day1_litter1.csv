@@ -1,8 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-01-09 11:53:30,227286,2,iPhone 6,52.643630555556,5.0498638888889,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622AD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-1,2021-01-09 11:54:11,131581,2,iPhone 6,52.643208333333,5.0478861111111,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622AD, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-2,2021-01-09 13:23:21,177095,2,iPhone 6,52.644627777778,5.0544666666667,Yes,"Vlinderrots, Stationsplein, Hoorn, North Holland, Netherlands, 1621HX, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-3,2021-01-09 13:24:17,256774,2,iPhone 6,52.644783333333,5.0542888888889,Yes,"AKO, 1, Stationsplein, Hoorn, North Holland, Netherlands, 1621HX, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-4,2021-01-09 13:24:25,130961,2,iPhone 6,52.64475,5.0543,Yes,"AKO, 1, Stationsplein, Hoorn, North Holland, Netherlands, 1621HX, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-5,2021-01-09 13:24:26,176712,2,iPhone 6,52.644702777778,5.0542972222222,Yes,"AKO, 1, Stationsplein, Hoorn, North Holland, Netherlands, 1621HX, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-6,2021-01-09 13:25:48,225682,2,iPhone 6,52.644508333333,5.055725,Yes,"Connexxion-garage, 2, Stationsplein, Hoorn, North Holland, Netherlands, 1621HX, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

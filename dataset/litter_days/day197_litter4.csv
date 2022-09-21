@@ -1,8 +1,0 @@
-,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
-0,2021-12-10 09:34:22,268135,2,iPhone 6,52.6592,5.0838416666667,Yes,"Maasweg, Blokker, Hoorn, North Holland, Netherlands, 1695AZ, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1,2021-12-10 09:35:33,268524,2,iPhone 6,52.660030555556,5.0860694444444,Yes,"92A, Westerblokker, Blokker, Hoorn, North Holland, Netherlands, 1695AK, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-2,2021-12-10 09:37:25,253985,2,iPhone 6,52.659686111111,5.0859833333333,Yes,"1, Koolduif, Blokker, Hoorn, North Holland, Netherlands, 1695LD, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-3,2021-12-10 09:37:27,268525,2,iPhone 6,52.659641666667,5.086025,Yes,"2, Koolduif, Blokker, Hoorn, North Holland, Netherlands, 1695LD, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-4,2021-12-10 11:16:40,257988,2,iPhone 6,52.661022222222,5.0887472222222,Yes,"Westerblokker, Winkelcentrum De Beurs, De Bangert, Blokker, Hoorn, North Holland, Netherlands, 1695AC, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-5,2021-12-10 11:17:43,268526,2,iPhone 6,52.660416666667,5.0865722222222,Yes,"Bramleylaan, Westerblokker, Blokker, Hoorn, North Holland, Netherlands, 1695LD, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-6,2021-12-10 11:19:15,268527,2,iPhone 6,52.659169444444,5.0832527777778,Yes,"98A, Westerblokker, Blokker, Hoorn, North Holland, Netherlands, 1695AK, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
