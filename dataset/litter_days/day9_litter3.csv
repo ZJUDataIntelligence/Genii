@@ -1,0 +1,17 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-02-18 09:35:03,129703,2,iPhone 6,52.656238888889,5.0631611111111,Yes,"802, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1,2021-02-18 09:35:52,259349,2,iPhone 6,52.656575,5.0630222222222,Yes,"Rabobank, 29, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,2021-02-18 09:36:15,178837,2,iPhone 6,52.656494444444,5.0630027777778,Yes,"Rabobank, 29, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, The Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,2021-02-18 09:36:18,178208,2,iPhone 6,52.656497222222,5.0629916666667,Yes,"Rabobank, 29, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-02-18 09:37:07,178209,2,iPhone 6,52.656680555556,5.0631472222222,Yes,"Rabobank, 29, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,2021-02-18 09:37:10,178210,2,iPhone 6,52.656680555556,5.0631472222222,Yes,"Rabobank, 29, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-02-18 09:38:25,225846,2,iPhone 6,52.656788888889,5.0627333333333,Yes,"29, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625BW, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+7,2021-02-18 09:40:57,129759,2,iPhone 6,52.656616666667,5.0602916666667,Yes,"Blokmergouw, Hoorn, North Holland, Netherlands, 1625BW, The Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,2021-02-18 10:29:29,131632,2,iPhone 6,52.655186111111,5.0606527777778,Yes,"BP De Huesmolen, 1, Zwaagmergouw, Hoorn, North Holland, Netherlands, 1625PA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+9,2021-02-18 10:29:32,178219,2,iPhone 6,52.655211111111,5.06075,Yes,"BP De Huesmolen, 1, Zwaagmergouw, Hoorn, North Holland, Netherlands, 1625PA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+10,2021-02-18 10:30:15,131633,2,iPhone 6,52.655302777778,5.0610527777778,Yes,"BP De Huesmolen, 1, Zwaagmergouw, Hoorn, North Holland, Netherlands, 1625PA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+11,2021-02-18 10:30:50,131634,2,iPhone 6,52.655169444444,5.0609611111111,Yes,"BP De Huesmolen, 1, Zwaagmergouw, Hoorn, North Holland, Netherlands, 1625PA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+12,2021-02-18 10:31:33,227297,2,iPhone 6,52.65515,5.0618527777778,Yes,"Stadhuis, Zwaagmergouw, Hoorn, North Holland, Netherlands, 1625GS, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+13,2021-02-18 10:33:11,259351,2,iPhone 6,52.655219444444,5.0648694444444,Yes,"Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,2021-02-18 10:33:14,178908,2,iPhone 6,52.655219444444,5.0648694444444,Yes,"Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+15,2021-02-18 10:33:52,178858,2,iPhone 6,52.654930555556,5.0646194444444,Yes,"99, Zandsteen, Hoorn, North Holland, Netherlands, 1625BV, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

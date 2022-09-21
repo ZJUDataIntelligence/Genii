@@ -1,0 +1,14 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-11-21 09:33:18,253444,2,iPhone 6,52.655808333333,5.085525,Yes,"13, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DA, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-11-21 09:34:28,253180,2,iPhone 6,52.657597222222,5.0853583333333,Yes,"IJsselweg, Blokker, Hoorn, North Holland, Netherlands, 1695AZ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-11-21 09:35:19,252704,2,iPhone 6,52.658205555556,5.0851138888889,Yes,"1, Tortelduif, Blokker, Hoorn, North Holland, Netherlands, 1695AZ, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+3,2021-11-21 09:36:10,253914,2,iPhone 6,52.658147222222,5.0849583333333,Yes,"1, Tortelduif, Blokker, Hoorn, North Holland, Netherlands, 1695AZ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+4,2021-11-21 09:51:57,253181,2,iPhone 6,52.660994444444,5.0887,Yes,"DekaMarkt, 115, Westerblokker, Winkelcentrum De Beurs, Blokker, Hoorn, North Holland, Netherlands, 1695AC, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,2021-11-21 09:52:25,253445,2,iPhone 6,52.661013888889,5.0884527777778,Yes,"DekaMarkt, 115, Westerblokker, Winkelcentrum De Beurs, Blokker, Hoorn, North Holland, Netherlands, 1695AC, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-11-21 09:52:49,254859,2,iPhone 6,52.660977777778,5.0885083333333,Yes,"DekaMarkt, 115, Westerblokker, Winkelcentrum De Beurs, Blokker, Hoorn, North Holland, Netherlands, 1695AC, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,2021-11-21 09:53:41,252982,2,iPhone 6,52.660983333333,5.0882666666667,No,"Fikke's Vishoek, Westerblokker, Winkelcentrum De Beurs, Blokker, Hoorn, North Holland, Netherlands, 1695AC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+8,2021-11-21 09:53:42,253446,2,iPhone 6,52.660972222222,5.0883138888889,Yes,"Fikke's Vishoek, Westerblokker, Winkelcentrum De Beurs, Blokker, Hoorn, North Holland, Netherlands, 1695AC, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+9,2021-11-21 09:53:43,252782,2,iPhone 6,52.660972222222,5.0883138888889,Yes,"Fikke's Vishoek, Westerblokker, Winkelcentrum De Beurs, Blokker, Hoorn, North Holland, Netherlands, 1695AC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+10,2021-11-21 09:55:21,253916,2,iPhone 6,52.659691666667,5.0846416666667,Yes,"135, Westerblokker, Blokker, Hoorn, North Holland, Netherlands, 1695AD, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+11,2021-11-21 09:55:49,257872,2,iPhone 6,52.659461111111,5.0840138888889,Yes,"96D, Westerblokker, Blokker, Hoorn, North Holland, Netherlands, 1695AK, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,2021-11-21 09:55:51,253447,2,iPhone 6,52.659683333333,5.08445,Yes,"137, Westerblokker, Blokker, Hoorn, North Holland, Netherlands, 1695AD, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

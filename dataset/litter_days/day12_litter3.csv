@@ -1,0 +1,36 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-02-21 14:03:58,131056,2,iPhone 6,52.651719444444,5.081,Yes,"55, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-02-21 14:07:11,176365,2,iPhone 6,52.651569444444,5.0815555555556,Yes,"Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AC, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-02-21 14:08:52,226489,2,iPhone 6,52.651755555556,5.0818611111111,Yes,"Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AC, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+3,2021-02-21 14:10:32,177609,2,iPhone 6,52.651752777778,5.0819222222222,Yes,"Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AC, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-02-21 14:10:36,177610,2,iPhone 6,52.651822222222,5.0819027777778,Yes,"Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AC, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,2021-02-21 14:12:28,131272,2,iPhone 6,52.652186111111,5.0824388888889,Yes,"Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AC, The Netherlands",2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+6,2021-02-21 14:12:52,254799,2,iPhone 6,52.652572222222,5.0819222222222,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+7,2021-02-21 14:14:13,179396,2,iPhone 6,52.653152777778,5.08405,Yes,"20, Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+8,2021-02-21 14:14:52,256796,2,iPhone 6,52.653111111111,5.0843,Yes,"27, Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KA, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,2021-02-21 14:14:54,259227,2,iPhone 6,52.653111111111,5.0843,Yes,"27, Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KA, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,2021-02-21 14:14:56,177611,2,iPhone 6,52.653111111111,5.0843,Yes,"27, Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+11,2021-02-21 14:15:48,177612,2,iPhone 6,52.653202777778,5.0840416666667,Yes,"21, Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+12,2021-02-21 14:15:50,131658,2,iPhone 6,52.653202777778,5.0840416666667,Yes,"21, Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+13,2021-02-21 14:16:54,129824,2,iPhone 6,52.6534,5.0847888888889,Yes,"Hero Koffiecorner, Borstwering, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KR, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+14,2021-02-21 14:16:57,129825,2,iPhone 6,52.653327777778,5.084275,Yes,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+15,2021-02-21 14:17:54,259228,2,iPhone 6,52.653366666667,5.0843083333333,Yes,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,2021-02-21 14:17:56,259229,2,iPhone 6,52.653436111111,5.0842583333333,Yes,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,2021-02-21 14:19:09,278347,2,iPhone 6,52.653538888889,5.0844388888889,Yes,"22, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+18,2021-02-21 14:19:13,259230,2,iPhone 6,52.653461111111,5.0842611111111,Yes,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,2021-02-21 14:19:53,131057,2,iPhone 6,52.653458333333,5.0845694444444,Yes,"3, Borstwering, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KR, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+20,2021-02-21 14:23:06,131125,2,iPhone 6,52.653508333333,5.0843611111111,Yes,"22, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, The Netherlands",2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+21,2021-02-21 14:23:10,177613,2,iPhone 6,52.653452777778,5.0842916666667,Yes,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+22,2021-02-21 14:23:14,177614,2,iPhone 6,52.653452777778,5.0842916666667,Yes,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+23,2021-02-21 14:23:56,177615,2,iPhone 6,52.653675,5.0842277777778,Yes,"23, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+24,2021-02-21 14:24:00,255813,2,iPhone 6,52.653552777778,5.0841,Yes,"17, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+25,2021-02-21 14:24:52,257846,2,iPhone 6,52.653686111111,5.0840888888889,Yes,"27, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,2021-02-21 14:25:31,179397,2,iPhone 6,52.653797222222,5.0840638888889,Yes,"28, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+27,2021-02-21 14:26:24,129760,2,iPhone 6,52.653583333333,5.0841916666667,No,"23, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, The Netherlands",2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+28,2021-02-21 14:26:59,129769,2,iPhone 6,52.653816666667,5.083975,Yes,"32, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+29,2021-02-21 14:27:48,259231,2,iPhone 6,52.654263888889,5.0833888888889,Yes,"48, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KJ, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,2021-02-21 14:30:13,129704,2,iPhone 6,52.6548,5.0833277777778,Yes,"Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KK, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+31,2021-02-21 14:30:15,129545,2,iPhone 6,52.6548,5.0833277777778,Yes,"Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KK, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+32,2021-02-21 14:30:55,226412,2,iPhone 6,52.654761111111,5.0829472222222,Yes,"Peking Express, 58, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+33,2021-02-21 14:30:57,278310,2,iPhone 6,52.654755555556,5.0830277777778,Yes,"Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+34,2021-02-21 14:31:38,131659,2,iPhone 6,52.654830555556,5.0828166666667,Yes,"Dierenkliniek Hoorn, 56, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BC, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0

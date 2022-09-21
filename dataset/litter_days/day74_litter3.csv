@@ -1,0 +1,11 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-05-30 09:28:33,258163,2,iPhone 6,52.663913888889,5.0522055555556,Yes,"Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689RD, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,2021-05-30 09:30:47,222931,2,iPhone 6,52.66375,5.0500833333333,Yes,"Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689RR, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-05-30 09:35:17,258164,2,iPhone 6,52.664966666667,5.0471722222222,Yes,"Wogmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689PZ, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,2021-05-30 09:36:36,222933,2,iPhone 6,52.665313888889,5.0468972222222,Yes,"Wogmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689PZ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-05-30 09:37:08,257066,2,iPhone 6,52.665341666667,5.0469638888889,Yes,"Wogmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689PZ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+5,2021-05-30 09:38:24,222934,2,iPhone 6,52.6656,5.0467666666667,Yes,"Wogmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689PZ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-05-30 09:38:26,258165,2,iPhone 6,52.6656,5.0467666666667,Yes,"Wogmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689PZ, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,2021-05-30 09:38:27,258166,2,iPhone 6,52.6656,5.0467666666667,Yes,"Wogmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689PZ, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,2021-05-30 09:38:29,228122,2,iPhone 6,52.6656,5.0467666666667,Yes,"Wogmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689PZ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+9,2021-05-30 09:54:26,222936,2,iPhone 6,52.663722222222,5.0502361111111,Yes,"Labyrinth, Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689MG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

@@ -1,0 +1,3 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-10-13 10:02:35,258269,2,iPhone 6,52.660983333333,5.0884527777778,Yes,"DekaMarkt, 115, Westerblokker, Winkelcentrum De Beurs, Blokker, Hoorn, North Holland, Netherlands, 1695AC, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,2021-10-13 10:02:37,258268,2,iPhone 6,52.660866666667,5.0886388888889,Yes,"DekaMarkt, 115, Westerblokker, Winkelcentrum De Beurs, Blokker, Hoorn, North Holland, Netherlands, 1695AC, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

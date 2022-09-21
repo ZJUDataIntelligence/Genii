@@ -1,0 +1,9 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-03-25 10:41:29,179100,2,iPhone 6,52.653072222222,5.0851694444444,Yes,"13, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-03-25 10:58:22,177935,2,iPhone 6,52.652275,5.085525,Yes,"Dierenspeciaalzaak Pets & Co, 117, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-03-25 10:59:43,257257,2,iPhone 6,52.652236111111,5.0850722222222,Yes,"52, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+3,2021-03-25 11:02:51,177936,2,iPhone 6,52.652336111111,5.0847833333333,Yes,"55, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-03-25 11:03:28,254771,2,iPhone 6,52.652344444444,5.0847305555556,Yes,"55, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+5,2021-03-25 11:04:00,129803,2,iPhone 6,52.652394444444,5.0849388888889,Yes,"Mina Krusemanstraat, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-03-25 11:04:38,129804,2,iPhone 6,52.652275,5.0848388888889,Yes,"Mina Krusemanstraat, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-03-25 11:06:38,131601,2,iPhone 6,52.651763888889,5.08405,Yes,"54, Aletta Jacobsstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NR, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0

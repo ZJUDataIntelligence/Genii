@@ -1,0 +1,11 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-12-21 14:37:03,252663,2,iPhone 6,52.652363888889,5.0809805555556,Yes,"Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-12-21 14:37:04,254839,2,iPhone 6,52.652363888889,5.0809805555556,Yes,"Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2,2021-12-21 14:37:05,268250,2,iPhone 6,52.652363888889,5.0809805555556,Yes,"Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+3,2021-12-21 14:37:07,268186,2,iPhone 6,52.652363888889,5.0809805555556,Yes,"Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,2021-12-21 14:37:08,252832,2,iPhone 6,52.652363888889,5.0809805555556,Yes,"Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+5,2021-12-21 14:37:10,255284,2,iPhone 6,52.652363888889,5.0809805555556,Yes,"Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+6,2021-12-21 14:37:11,252429,2,iPhone 6,52.652363888889,5.0809805555556,Yes,"Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+7,2021-12-21 14:37:12,268359,2,iPhone 6,52.652363888889,5.0809805555556,Yes,"Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+8,2021-12-21 14:37:19,268479,2,iPhone 6,52.652363888889,5.0809722222222,Yes,"Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+9,2021-12-21 14:37:21,257648,2,iPhone 6,52.652363888889,5.0809722222222,Yes,"Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

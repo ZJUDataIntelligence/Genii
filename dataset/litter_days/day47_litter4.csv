@@ -1,0 +1,11 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-04-16 14:18:58,259472,2,iPhone 6,52.653022222222,5.0772361111111,Yes,"10, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CG, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,2021-04-16 14:19:00,139850,2,iPhone 6,52.653019444444,5.0772361111111,No,"10, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CG, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-04-16 14:19:34,227523,2,iPhone 6,52.652927777778,5.0772916666667,Yes,"9, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+3,2021-04-16 14:19:37,143850,2,iPhone 6,52.652927777778,5.0772916666667,Yes,"9, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CG, The Netherlands",2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+4,2021-04-16 14:21:03,163715,2,iPhone 6,52.653161111111,5.0770611111111,Yes,"42, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,2021-04-16 14:21:36,139851,2,iPhone 6,52.653186111111,5.0769694444444,No,"42, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CB, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+6,2021-04-16 14:22:48,178105,2,iPhone 6,52.653258333333,5.0768138888889,Yes,"43, Kluut, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-04-16 14:22:50,178106,2,iPhone 6,52.653283333333,5.076825,Yes,"43, Kluut, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+8,2021-04-16 14:23:46,254752,2,iPhone 6,52.653247222222,5.0769083333333,Yes,"44, Kluut, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+9,2021-04-16 14:24:21,179221,2,iPhone 6,52.653305555556,5.0771722222222,Yes,"44, Kluut, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

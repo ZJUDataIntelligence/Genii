@@ -1,0 +1,13 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-04-17 11:38:23,225786,2,iPhone 6,52.649363888889,5.0860694444444,Yes,"62, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-04-17 11:38:25,254383,2,iPhone 6,52.649363888889,5.0860694444444,Yes,"62, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LD, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+2,2021-04-17 11:39:21,139862,2,iPhone 6,52.649994444444,5.0879972222222,No,"142, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LH, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+3,2021-04-17 11:39:23,228452,2,iPhone 6,52.649983333333,5.0864305555556,Yes,"38, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+4,2021-04-17 11:40:27,257274,2,iPhone 6,52.650269444444,5.0867638888889,No,"26, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+5,2021-04-17 11:40:51,254412,2,iPhone 6,52.650355555556,5.0866361111111,Yes,"41, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LT, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+6,2021-04-17 11:41:32,254411,2,iPhone 6,52.650536111111,5.08675,Yes,"43, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LT, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+7,2021-04-17 11:42:16,143745,2,iPhone 6,52.650383333333,5.0867638888889,Yes,"24, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LA, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+8,2021-04-17 11:42:50,143854,2,iPhone 6,52.650475,5.0864194444444,Yes,"28, Prieel, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LT, The Netherlands",2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+9,2021-04-17 11:43:33,225787,2,iPhone 6,52.650611111111,5.0866805555556,Yes,"43, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LT, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+10,2021-04-17 11:44:11,139863,2,iPhone 6,52.650997222222,5.0865388888889,No,"5, Geulweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LA, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+11,2021-04-17 11:45:16,176401,2,iPhone 6,52.651566666667,5.08685,Yes,"Aagje Dekenplein, Marquettegracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LS, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

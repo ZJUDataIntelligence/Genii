@@ -1,0 +1,5 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-11-27 09:35:01,253937,2,iPhone 6,52.655783333333,5.0848777777778,Yes,"19, Nachtegaal, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DA, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+1,2021-11-27 09:35:37,254185,2,iPhone 6,52.655494444444,5.0843888888889,Yes,"144, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+2,2021-11-27 09:36:11,254299,2,iPhone 6,52.655497222222,5.0840111111111,Yes,"144, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+3,2021-11-27 09:36:59,254300,2,iPhone 6,52.655413888889,5.0839083333333,Yes,"144, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0

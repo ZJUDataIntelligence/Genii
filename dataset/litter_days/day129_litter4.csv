@@ -1,0 +1,21 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-08-19 10:21:27,223392,2,iPhone 6,52.652775,5.0854388888889,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NW, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-08-19 10:23:22,222385,2,iPhone 6,52.653488888889,5.0843833333333,Yes,"22, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-08-19 10:23:23,222386,2,iPhone 6,52.653494444444,5.0843416666667,Yes,"22, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+3,2021-08-19 10:23:25,227151,2,iPhone 6,52.653502777778,5.0843277777778,Yes,"22, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+4,2021-08-19 10:24:05,258353,2,iPhone 6,52.653541666667,5.0842138888889,Yes,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,2021-08-19 10:24:48,256972,2,iPhone 6,52.653355555556,5.0842416666667,Yes,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+6,2021-08-19 10:24:50,226898,2,iPhone 6,52.653355555556,5.0842416666667,Yes,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+7,2021-08-19 10:24:52,226382,2,iPhone 6,52.653355555556,5.0842416666667,Yes,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+8,2021-08-19 10:26:00,264970,2,iPhone 6,52.653488888889,5.0841972222222,No,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+9,2021-08-19 10:26:04,222387,2,iPhone 6,52.653422222222,5.0842111111111,Yes,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+10,2021-08-19 10:26:05,222388,2,iPhone 6,52.6534,5.0842833333333,Yes,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+11,2021-08-19 10:27:22,225774,2,iPhone 6,52.653344444444,5.0844694444444,Yes,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+12,2021-08-19 10:27:24,227402,2,iPhone 6,52.653344444444,5.0844694444444,Yes,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+13,2021-08-19 10:28:01,223393,2,iPhone 6,52.653422222222,5.0843833333333,Yes,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+14,2021-08-19 10:28:02,227922,2,iPhone 6,52.653422222222,5.0843833333333,Yes,"21, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+15,2021-08-19 10:29:02,228047,2,iPhone 6,52.653344444444,5.0846055555556,Yes,"Hero Koffiecorner, Borstwering, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KR, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,2021-08-19 10:30:03,222389,2,iPhone 6,52.653419444444,5.08455,Yes,"3, Borstwering, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KR, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+17,2021-08-19 10:30:48,255201,2,iPhone 6,52.653252777778,5.0841416666667,Yes,"24, Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+18,2021-08-19 10:30:51,225321,2,iPhone 6,52.653338888889,5.08455,Yes,"22, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+19,2021-08-19 10:30:53,223394,2,iPhone 6,52.653361111111,5.0845444444444,Yes,"22, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

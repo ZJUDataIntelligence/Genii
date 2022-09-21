@@ -1,0 +1,12 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-07-19 11:04:36,255634,2,iPhone 6,52.65315,5.0825111111111,Yes,"7, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+1,2021-07-19 11:04:40,225244,2,iPhone 6,52.65315,5.0825111111111,Yes,"7, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-07-19 11:05:26,252992,2,iPhone 6,52.652786111111,5.0828583333333,Yes,"58, Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KE, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+3,2021-07-19 11:07:26,254618,2,iPhone 6,52.653136111111,5.0849777777778,Yes,"32, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+4,2021-07-19 11:34:47,227901,2,iPhone 6,52.652675,5.0831333333333,Yes,"1, Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+5,2021-07-19 11:34:49,227105,2,iPhone 6,52.653197222222,5.082925,Yes,"7, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+6,2021-07-19 11:35:41,225245,2,iPhone 6,52.653330555556,5.0830333333333,Yes,"7, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+7,2021-07-19 11:36:27,255477,2,iPhone 6,52.653172222222,5.0828111111111,Yes,"7, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+8,2021-07-19 15:49:23,227382,2,iPhone 6,52.654658333333,5.0831805555556,Yes,"Mleczko Polish Shop, 58, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KJ, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+9,2021-07-19 15:50:06,228236,2,iPhone 6,52.653888888889,5.0834555555556,Yes,"9, Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+10,2021-07-19 16:13:12,253750,2,iPhone 6,52.652316666667,5.0848027777778,Yes,"55, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

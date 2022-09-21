@@ -1,0 +1,4 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-11-27 09:30:57,252672,2,iPhone 6,52.660233333333,5.0857222222222,No,"ALDI, 129, Westerblokker, Blokker, Hoorn, North Holland, Netherlands, 1695AD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-11-27 09:32:06,253648,2,iPhone 6,52.660063888889,5.0856,Yes,"Ben de Haan, 129A, Westerblokker, Blokker, Hoorn, North Holland, Netherlands, 1695AD, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+2,2021-11-27 09:32:08,255727,2,iPhone 6,52.660022222222,5.0851694444444,Yes,"131, Westerblokker, Blokker, Hoorn, North Holland, Netherlands, 1695AD, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0

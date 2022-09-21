@@ -1,0 +1,11 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-09-01 10:15:58,223533,2,iPhone 6,52.652705555556,5.0809583333333,Yes,"22, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AJ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-09-01 10:16:56,225356,2,iPhone 6,52.653094444444,5.0805972222222,Yes,"44, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-09-01 10:16:59,227564,2,iPhone 6,52.653094444444,5.0805972222222,Yes,"44, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+3,2021-09-01 10:17:59,222563,2,iPhone 6,52.652936111111,5.0810666666667,Yes,"19, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AA, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-09-01 10:18:00,225357,2,iPhone 6,52.653191666667,5.0808583333333,Yes,"46, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+5,2021-09-01 10:18:02,223534,2,iPhone 6,52.653191666667,5.0808583333333,Yes,"46, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-09-01 10:18:04,223535,2,iPhone 6,52.653191666667,5.0808583333333,Yes,"46, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-09-01 10:19:11,225358,2,iPhone 6,52.652897222222,5.0811944444444,Yes,"21, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+8,2021-09-01 10:19:13,259616,2,iPhone 6,52.652938888889,5.0811138888889,No,"19, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AA, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,2021-09-01 10:19:14,221376,2,iPhone 6,52.653236111111,5.0807416666667,Yes,"46, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

@@ -1,0 +1,8 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-10-18 15:40:27,253739,2,iPhone 6,52.651194444444,5.0905916666667,Yes,"43, Acacia, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628MJ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-10-18 15:41:14,227813,2,iPhone 6,52.651980555556,5.0865472222222,Yes,"52, Aagje Dekenplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NX, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,2021-10-18 15:43:56,227814,2,iPhone 6,52.651725,5.0865027777778,Yes,"1, Aagje Dekenplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NX, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,2021-10-18 15:50:24,227977,2,iPhone 6,52.650075,5.08735,Yes,"159, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LJ, Netherlands",3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0
+4,2021-10-18 15:54:15,256106,2,iPhone 6,52.649997222222,5.0871416666667,No,"161, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LJ, Netherlands",2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+5,2021-10-18 15:55:33,258261,2,iPhone 6,52.64975,5.0867361111111,Yes,"52, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LC, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,2021-10-18 16:04:15,227815,2,iPhone 6,52.64935,5.0845111111111,Yes,"79, Pergola, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LP, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0

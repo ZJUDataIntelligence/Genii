@@ -1,0 +1,23 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-02-20 09:49:53,179362,2,iPhone 6,52.652527777778,5.0820055555556,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-02-20 09:49:55,179363,2,iPhone 6,52.6534,5.0819888888889,Yes,"78, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AE, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-02-20 09:51:08,256910,2,iPhone 6,52.653347222222,5.0820833333333,Yes,"41, Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+3,2021-02-20 09:51:12,255060,2,iPhone 6,52.653161111111,5.0817138888889,Yes,"73, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,2021-02-20 09:51:13,255061,2,iPhone 6,52.653161111111,5.0817138888889,Yes,"73, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,2021-02-20 09:51:15,255062,2,iPhone 6,52.653377777778,5.0817888888889,Yes,"78, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AE, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,2021-02-20 09:51:16,179364,2,iPhone 6,52.653377777778,5.0817888888889,Yes,"78, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AE, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-02-20 09:51:18,179365,2,iPhone 6,52.653377777778,5.0817888888889,Yes,"78, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AE, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+8,2021-02-20 09:51:19,179366,2,iPhone 6,52.653377777778,5.0817888888889,Yes,"78, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AE, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+9,2021-02-20 09:51:20,179367,2,iPhone 6,52.653377777778,5.0817888888889,Yes,"78, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AE, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+10,2021-02-20 09:51:21,179368,2,iPhone 6,52.653377777778,5.0817888888889,Yes,"78, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AE, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+11,2021-02-20 09:51:23,255063,2,iPhone 6,52.653377777778,5.0817888888889,Yes,"78, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AE, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,2021-02-20 09:51:25,255064,2,iPhone 6,52.653377777778,5.0817888888889,Yes,"78, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AE, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,2021-02-20 09:51:27,255065,2,iPhone 6,52.653388888889,5.0818277777778,Yes,"78, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AE, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,2021-02-20 09:51:28,255066,2,iPhone 6,52.653388888889,5.0818277777778,Yes,"78, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AE, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,2021-02-20 09:51:33,255067,2,iPhone 6,52.653388888889,5.0818277777778,Yes,"78, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AE, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,2021-02-20 09:51:34,179369,2,iPhone 6,52.653388888889,5.0818277777778,Yes,"78, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AE, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+17,2021-02-20 09:51:36,179370,2,iPhone 6,52.653388888889,5.0818277777778,Yes,"78, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AE, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+18,2021-02-20 09:51:37,178881,2,iPhone 6,52.653388888889,5.0818277777778,Yes,"78, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AE, The Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,2021-02-20 09:51:39,255068,2,iPhone 6,52.653388888889,5.0818277777778,Yes,"78, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AE, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,2021-02-20 09:51:40,179371,2,iPhone 6,52.653388888889,5.0818277777778,Yes,"78, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AE, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+21,2021-02-20 09:53:12,178386,2,iPhone 6,52.653266666667,5.08175,Yes,"74, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

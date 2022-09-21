@@ -1,0 +1,12 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-07-14 13:54:29,223179,2,iPhone 6,52.654725,5.0655805555556,Yes,"800, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-07-14 13:54:31,222116,2,iPhone 6,52.654797222222,5.0654416666667,Yes,"Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625BV, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-07-14 13:55:00,254895,2,iPhone 6,52.654869444444,5.0655,Yes,"Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625BV, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,2021-07-14 13:55:33,227820,2,iPhone 6,52.654791666667,5.0651055555556,Yes,"32, Zandsteen, Hoorn, North Holland, Netherlands, 1625BV, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,2021-07-14 14:17:46,226969,2,iPhone 6,52.659005555556,5.0600916666667,Yes,"20, Boeier, Hoorn, North Holland, Netherlands, 1625CH, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+5,2021-07-14 14:18:12,254896,2,iPhone 6,52.659113888889,5.0607972222222,Yes,"Beurtschip, Hoorn, North Holland, Netherlands, 1625CH, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,2021-07-14 14:19:39,223182,2,iPhone 6,52.656144444444,5.0635777777778,Yes,"Sportpark Risdam-Zuid, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625BV, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-07-14 14:20:06,257439,2,iPhone 6,52.656230555556,5.0631333333333,Yes,"802, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625BV, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+8,2021-07-14 14:21:33,256802,2,iPhone 6,52.654041666667,5.0658027777778,Yes,"6, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,2021-07-14 14:22:13,258252,2,iPhone 6,52.653825,5.066775,Yes,"Provincialeweg, Hoorn, North Holland, Netherlands, 1624HN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,2021-07-14 14:23:16,258253,2,iPhone 6,52.654327777778,5.0683888888889,Yes,"Stenenpad, Hoorn, North Holland, Netherlands, 1625PC, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

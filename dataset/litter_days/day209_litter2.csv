@@ -1,0 +1,6 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2022-03-20 09:55:36,279323,2,iPhone 13 mini,52.653366666667,5.0796666666667,Yes,"37, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, Netherlands",2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,2022-03-20 09:56:54,279322,2,iPhone 13 mini,52.6539,5.0791111666667,Yes,"Madeliefjes, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AP, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+2,2022-03-20 09:58:29,279321,2,iPhone 13 mini,52.653678333333,5.0784861666667,Yes,"Madeliefjes, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AP, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+3,2022-03-20 09:59:52,281638,2,iPhone 13 mini,52.65402,5.0796695,Yes,"Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AS, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+4,2022-03-20 10:00:23,281636,2,iPhone 13 mini,52.654053333333,5.0796445,Yes,"Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AS, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

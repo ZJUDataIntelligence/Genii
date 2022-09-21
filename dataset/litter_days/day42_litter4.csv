@@ -1,0 +1,11 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-04-11 12:46:36,143730,2,iPhone 6,52.653702777778,5.0803138888889,Yes,"35, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-04-11 12:47:30,254757,2,iPhone 6,52.653686111111,5.0805333333333,Yes,"58, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2,2021-04-11 12:47:36,259663,2,iPhone 6,52.653594444444,5.0804916666667,Yes,"58, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+3,2021-04-11 12:48:44,139828,2,iPhone 6,52.653419444444,5.0801916666667,No,"41, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+4,2021-04-11 12:50:26,255022,2,iPhone 6,52.653463888889,5.0801694444444,Yes,"35, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,2021-04-11 12:51:47,257544,2,iPhone 6,52.653583333333,5.0799416666667,Yes,"35, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+6,2021-04-11 12:51:49,179572,2,iPhone 6,52.653611111111,5.0799805555556,Yes,"35, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+7,2021-04-11 12:52:34,179573,2,iPhone 6,52.653344444444,5.0803222222222,Yes,"43, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+8,2021-04-11 12:53:33,139829,2,iPhone 6,52.653222222222,5.0800333333333,No,"40, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+9,2021-04-11 12:55:36,257084,2,iPhone 6,52.652655555556,5.0800166666667,Yes,"79, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

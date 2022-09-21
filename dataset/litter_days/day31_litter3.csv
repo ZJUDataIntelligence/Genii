@@ -1,0 +1,24 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-03-18 10:06:08,252675,2,iPhone 6,52.654922222222,5.0802388888889,No,"135, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-03-18 10:06:55,177050,2,iPhone 6,52.65515,5.0802611111111,Yes,"124, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BG, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-03-18 10:08:10,259112,2,iPhone 6,52.655272222222,5.0799694444444,Yes,"1, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BA, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,2021-03-18 10:10:38,259113,2,iPhone 6,52.654902777778,5.0794805555556,Yes,"1, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BA, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,2021-03-18 10:10:40,132308,2,iPhone 6,52.654986111111,5.079675,No,"1, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BA, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+5,2021-03-18 10:10:46,259114,2,iPhone 6,52.655022222222,5.0796638888889,Yes,"1, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BA, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,2021-03-18 10:10:47,179064,2,iPhone 6,52.655025,5.0796611111111,Yes,"1, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-03-18 10:10:54,278552,2,iPhone 6,52.655030555556,5.0796722222222,Yes,"1, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+8,2021-03-18 10:11:01,179065,2,iPhone 6,52.655030555556,5.0796722222222,Yes,"1, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+9,2021-03-18 10:15:49,179569,2,iPhone 6,52.654827777778,5.0786888888889,Yes,"Roerdomp, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+10,2021-03-18 10:15:52,176694,2,iPhone 6,52.654880555556,5.0789111111111,Yes,"Roerdomp, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+11,2021-03-18 10:15:55,177051,2,iPhone 6,52.654883333333,5.0789027777778,Yes,"Roerdomp, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+12,2021-03-18 10:15:57,177052,2,iPhone 6,52.654880555556,5.0789,Yes,"Roerdomp, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+13,2021-03-18 10:15:59,177053,2,iPhone 6,52.654888888889,5.0788805555556,Yes,"Roerdomp, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+14,2021-03-18 10:16:02,177054,2,iPhone 6,52.654888888889,5.0788722222222,Yes,"Roerdomp, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+15,2021-03-18 10:16:04,176695,2,iPhone 6,52.654888888889,5.0788638888889,Yes,"Roerdomp, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+16,2021-03-18 10:16:06,176696,2,iPhone 6,52.654888888889,5.0788583333333,Yes,"Roerdomp, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+17,2021-03-18 10:16:08,176697,2,iPhone 6,52.654888888889,5.0788638888889,Yes,"Roerdomp, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+18,2021-03-18 10:16:10,177055,2,iPhone 6,52.654888888889,5.078875,Yes,"Roerdomp, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+19,2021-03-18 10:16:13,176698,2,iPhone 6,52.654880555556,5.0788888888889,Yes,"Roerdomp, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+20,2021-03-18 10:16:15,177057,2,iPhone 6,52.654880555556,5.0788888888889,Yes,"Roerdomp, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+21,2021-03-18 10:16:16,177056,2,iPhone 6,52.654883333333,5.0788944444444,Yes,"Roerdomp, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+22,2021-03-18 10:16:20,228432,2,iPhone 6,52.654891666667,5.0788777777778,Yes,"Korfbalvereniging ADOS Hoorn, Roerdomp, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BH, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

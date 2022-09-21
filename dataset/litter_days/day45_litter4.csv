@@ -1,0 +1,8 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-04-14 10:48:50,179209,2,iPhone 6,52.656872222222,5.0800722222222,Yes,"37, Grutto, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-04-14 10:49:49,259036,2,iPhone 6,52.657922222222,5.0799694444444,Yes,"Kloosterhout, Blokker, Hoorn, North Holland, Netherlands, 1628BJ, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,2021-04-14 10:50:50,178086,2,iPhone 6,52.658644444444,5.0818916666667,Yes,"108, Westerblokker, Blokker, Hoorn, North Holland, Netherlands, 1695AK, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+3,2021-04-14 12:00:29,178088,2,iPhone 6,52.654808333333,5.0806416666667,Yes,"130, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BG, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-04-14 12:01:04,178089,2,iPhone 6,52.654777777778,5.0804972222222,Yes,"127, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BG, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,2021-04-14 12:01:38,179210,2,iPhone 6,52.654677777778,5.0804861111111,Yes,"131, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BG, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-04-14 12:02:12,278583,2,iPhone 6,52.655016666667,5.080775,Yes,"129, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

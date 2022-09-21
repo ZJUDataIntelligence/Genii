@@ -1,0 +1,12 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-12-15 08:44:03,268139,2,iPhone 6,52.653308333333,5.0831111111111,Yes,"7, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,2021-12-15 08:44:37,268604,2,iPhone 6,52.653194444444,5.0831222222222,Yes,"8, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-12-15 08:44:39,268605,2,iPhone 6,52.653194444444,5.0831222222222,Yes,"8, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+3,2021-12-15 08:44:40,268606,2,iPhone 6,52.653233333333,5.0830722222222,Yes,"7, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-12-15 09:11:09,268613,2,iPhone 6,52.653747222222,5.0840888888889,Yes,"27, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,2021-12-15 09:12:00,268140,2,iPhone 6,52.654238888889,5.083875,Yes,"Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KN, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,2021-12-15 09:13:32,252624,2,iPhone 6,52.654475,5.0828611111111,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+7,2021-12-15 09:14:26,254015,2,iPhone 6,52.654397222222,5.0828611111111,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+8,2021-12-15 09:14:28,268475,2,iPhone 6,52.654397222222,5.0828611111111,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+9,2021-12-15 10:53:27,268620,2,iPhone 6,52.653069444444,5.0824138888889,Yes,"48, Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KE, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+10,2021-12-15 11:06:25,253617,2,iPhone 6,52.652563888889,5.0835611111111,Yes,"23, Mina Krusemanstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NL, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

@@ -1,0 +1,12 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-12-09 09:31:43,253981,2,iPhone 6,52.65265,5.0806944444444,Yes,"21, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AJ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+1,2021-12-09 09:31:45,253584,2,iPhone 6,52.652633333333,5.0803,Yes,"76, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-12-09 09:32:25,268511,2,iPhone 6,52.652766666667,5.0811583333333,Yes,"22, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AA, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+3,2021-12-09 09:33:02,268384,2,iPhone 6,52.653161111111,5.0809416666667,Yes,"16, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AA, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-12-09 09:33:04,268512,2,iPhone 6,52.653161111111,5.0809416666667,Yes,"16, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AA, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,2021-12-09 10:32:01,252942,2,iPhone 6,52.651894444444,5.0815583333333,Yes,"Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+6,2021-12-09 10:33:45,252943,2,iPhone 6,52.651516666667,5.0815388888889,Yes,"Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+7,2021-12-09 10:34:13,253983,2,iPhone 6,52.651511111111,5.0814472222222,Yes,"Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AC, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+8,2021-12-09 10:34:45,268397,2,iPhone 6,52.651577777778,5.0812194444444,Yes,"Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AC, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+9,2021-12-09 10:34:47,255804,2,iPhone 6,52.651569444444,5.0812222222222,Yes,"Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AC, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,2021-12-09 10:34:48,252944,2,iPhone 6,52.651569444444,5.0812222222222,Yes,"Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

@@ -1,0 +1,10 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-11-17 12:27:43,252640,2,iPhone 6,52.657936111111,5.0845694444444,Yes,"IJsselweg, Blokker, Hoorn, North Holland, Netherlands, 1695AZ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-11-17 12:27:45,252641,2,iPhone 6,52.655669444444,5.0858805555556,Yes,"35, Radboudgracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KL, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-11-17 12:28:26,258108,2,iPhone 6,52.655658333333,5.0853138888889,Yes,"14, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DA, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,2021-11-17 12:28:56,253126,2,iPhone 6,52.655675,5.0856611111111,Yes,"13, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DA, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-11-17 12:29:34,254153,2,iPhone 6,52.655494444444,5.0853861111111,Yes,"32, Radboudgracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KL, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+5,2021-11-17 12:30:23,252776,2,iPhone 6,52.655566666667,5.0855305555556,Yes,"34, Radboudgracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KL, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+6,2021-11-17 12:30:24,258109,2,iPhone 6,52.655261111111,5.085175,Yes,"30, Radboudgracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KL, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,2021-11-17 12:31:37,252889,2,iPhone 6,52.655736111111,5.084675,Yes,"20, Nachtegaal, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+8,2021-11-17 12:31:39,252890,2,iPhone 6,52.654683333333,5.0832638888889,Yes,"Mleczko Polish Shop, 58, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KJ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

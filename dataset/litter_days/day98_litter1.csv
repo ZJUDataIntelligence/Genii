@@ -1,0 +1,30 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-06-25 11:45:29,177346,2,iPhone 6,52.655552777778,5.0880944444444,Yes,"65, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628EM, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-06-25 11:45:30,178751,2,iPhone 6,52.655563888889,5.0880944444444,Yes,"67, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628EM, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2,2021-06-25 11:46:46,227163,2,iPhone 6,52.655911111111,5.0885666666667,Yes,"90, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628EN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+3,2021-06-25 11:46:47,227568,2,iPhone 6,52.655602777778,5.0884277777778,Yes,"66, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628EM, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+4,2021-06-25 11:47:39,177347,2,iPhone 6,52.655602777778,5.0884277777778,Yes,"66, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628EM, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,2021-06-25 11:47:41,177348,2,iPhone 6,52.655413888889,5.0888,Yes,"57, Spant, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628GL, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-06-25 11:47:42,177349,2,iPhone 6,52.655419444444,5.088825,Yes,"57, Spant, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628GL, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-06-25 11:47:44,176313,2,iPhone 6,52.655419444444,5.088825,Yes,"57, Spant, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628GL, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+8,2021-06-25 11:48:30,254979,2,iPhone 6,52.655588888889,5.08865,Yes,"89, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628EN, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,2021-06-25 11:48:31,256596,2,iPhone 6,52.655722222222,5.0889194444444,Yes,"94, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628EN, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,2021-06-25 11:49:35,256597,2,iPhone 6,52.65585,5.0891527777778,Yes,"Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628EP, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,2021-06-25 11:49:36,256598,2,iPhone 6,52.65585,5.0891527777778,Yes,"Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628EP, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,2021-06-25 11:50:19,176419,2,iPhone 6,52.655872222222,5.0881694444444,Yes,"87, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628EN, The Netherlands",4.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0
+13,2021-06-25 11:50:20,177351,2,iPhone 6,52.656191666667,5.0896888888889,Yes,"124, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628ER, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+14,2021-06-25 11:50:22,259477,2,iPhone 6,52.656105555556,5.0893305555556,Yes,"97, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628EP, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,2021-06-25 11:51:32,178829,2,iPhone 6,52.656580555556,5.0893861111111,Yes,"118, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628ER, The Netherlands",4.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0
+16,2021-06-25 11:51:34,255285,2,iPhone 6,52.656330555556,5.0896111111111,Yes,"124, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628ER, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+17,2021-06-25 11:51:34,255286,2,iPhone 6,52.656330555556,5.0896111111111,Yes,"124, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628ER, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+18,2021-06-25 11:51:54,178830,2,iPhone 6,52.656227777778,5.0895805555556,Yes,"124, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628ER, The Netherlands",4.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0
+19,2021-06-25 11:53:18,177355,2,iPhone 6,52.656222222222,5.0895777777778,Yes,"124, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628ER, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+20,2021-06-25 11:53:19,176809,2,iPhone 6,52.656238888889,5.0897777777778,Yes,"124, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628ER, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+21,2021-06-25 11:53:21,179648,2,iPhone 6,52.656238888889,5.0897777777778,Yes,"124, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628ER, The Netherlands",2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+22,2021-06-25 11:54:09,256843,2,iPhone 6,52.656472222222,5.0897861111111,Yes,"124, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628ER, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+23,2021-06-25 11:54:11,176405,2,iPhone 6,52.656236111111,5.0898472222222,Yes,"124, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628ER, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+24,2021-06-25 11:54:12,176420,2,iPhone 6,52.656236111111,5.0898416666667,Yes,"124, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628ER, The Netherlands",4.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0
+25,2021-06-25 11:54:14,176295,2,iPhone 6,52.656236111111,5.0898416666667,Yes,"124, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628ER, The Netherlands",2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+26,2021-06-25 11:55:55,259478,2,iPhone 6,52.655933333333,5.089625,Yes,"97, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628EP, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+27,2021-06-25 11:56:38,257593,2,iPhone 6,52.655991666667,5.0892527777778,Yes,"97, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628EP, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+28,2021-06-25 11:56:39,176810,2,iPhone 6,52.656008333333,5.0893388888889,Yes,"97, Kievit, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628EP, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

@@ -1,0 +1,12 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-04-28 10:34:27,254483,2,iPhone 6,52.6494,5.0765638888889,Yes,"Provincialeweg, Hoorn, North Holland, Netherlands, 1628CM, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1,2021-04-28 10:35:19,163120,2,iPhone 6,52.649025,5.0782527777778,Yes,"31, Gording, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628JB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-04-28 14:10:03,227498,2,iPhone 6,52.651613888889,5.0759694444444,Yes,"6, Lepelaar, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CZ, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+3,2021-04-28 14:13:52,258966,2,iPhone 6,52.650436111111,5.0750444444444,Yes,"Manifesto, 14C, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,2021-04-28 14:14:44,176425,2,iPhone 6,52.650566666667,5.0744027777778,Yes,"Manifesto, 14C, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, The Netherlands",4.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0
+5,2021-04-28 14:15:22,163121,2,iPhone 6,52.6506,5.0745083333333,Yes,"Manifesto, 14C, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-04-28 14:15:24,256252,2,iPhone 6,52.650666666667,5.0745416666667,No,"Manifesto, 14C, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+7,2021-04-28 14:16:18,255304,2,iPhone 6,52.650794444444,5.0734666666667,Yes,"Holenweg, Hoorn, North Holland, Netherlands, 1624PB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+8,2021-04-28 14:17:08,179348,2,iPhone 6,52.650752777778,5.07385,Yes,"Holenweg, Hoorn, North Holland, Netherlands, 1624PB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+9,2021-04-28 14:17:10,172221,2,iPhone 6,52.650791666667,5.0737888888889,Yes,"Holenweg, Hoorn, North Holland, Netherlands, 1624PB, The Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,2021-04-28 14:56:51,163860,2,iPhone 6,52.653525,5.071175,Yes,"Provincialeweg, Hoorn, North Holland, Netherlands, 1624HN, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

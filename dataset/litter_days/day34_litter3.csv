@@ -1,0 +1,12 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-03-24 16:38:45,226372,2,iPhone 6,52.650047222222,5.0877194444444,Yes,"145, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LH, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-03-24 16:40:05,254263,2,iPhone 6,52.650672222222,5.0859777777778,Yes,"Geulweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LS, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+2,2021-03-24 16:41:35,177154,2,iPhone 6,52.650733333333,5.0860694444444,Yes,"Geulweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LS, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+3,2021-03-24 16:42:34,252525,2,iPhone 6,52.651038888889,5.0862555555556,No,"Geulweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LS, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+4,2021-03-24 16:45:13,259136,2,iPhone 6,52.651255555556,5.08645,Yes,"Hairplayers, 30, Aagje Dekenplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NX, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,2021-03-24 16:45:45,129780,2,iPhone 6,52.651177777778,5.0864861111111,Yes,"Aagje Dekenplein, Marquettegracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LS, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+6,2021-03-24 16:47:07,131596,2,iPhone 6,52.651741666667,5.0865027777778,Yes,"1, Aagje Dekenplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NX, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+7,2021-03-24 16:49:49,255882,2,iPhone 6,52.651122222222,5.0848388888889,Yes,"18, Marquettegracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+8,2021-03-24 16:53:16,259137,2,iPhone 6,52.651111111111,5.0853361111111,Yes,"25, Marquettegracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,2021-03-24 16:53:44,179090,2,iPhone 6,52.650944444444,5.0853388888889,Yes,"47, Groef, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628HM, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+10,2021-03-24 16:54:20,177155,2,iPhone 6,52.650988888889,5.0853861111111,Yes,"25, Marquettegracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NN, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

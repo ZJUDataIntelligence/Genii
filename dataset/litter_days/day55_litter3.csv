@@ -1,0 +1,7 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-04-26 09:33:54,163100,2,iPhone 6,52.648102777778,5.0541833333333,Yes,"GGZ Noord-Holland-Noord, 1, Maelsonstraat, Hoorn, North Holland, Netherlands, 1624NP, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-04-26 09:53:58,256915,2,iPhone 6,52.645363888889,5.0504305555556,Yes,"Keern, Hoorn, North Holland, Netherlands, 1622NA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2,2021-04-26 09:54:57,178796,2,iPhone 6,52.646294444444,5.0497277777778,Yes,"1, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, The Netherlands",2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+3,2021-04-26 09:54:59,163102,2,iPhone 6,52.646263888889,5.0496694444444,Yes,"1, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-04-26 09:55:42,254441,2,iPhone 6,52.646605555556,5.0506361111111,Yes,"6, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+5,2021-04-26 09:57:01,254409,2,iPhone 6,52.646288888889,5.0514083333333,Yes,"Albert Heijn, 19, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

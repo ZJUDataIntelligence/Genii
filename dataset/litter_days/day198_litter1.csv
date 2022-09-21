@@ -1,0 +1,7 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-12-11 11:18:43,268212,2,iPhone 6,52.651163888889,5.0838833333333,Yes,"10, Marquettegracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+1,2021-12-11 11:46:06,252817,2,iPhone 6,52.651936111111,5.0848111111111,Yes,"1, Aletta Jacobsstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NS, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-12-11 11:46:36,254538,2,iPhone 6,52.651894444444,5.0846972222222,Yes,"5, Aletta Jacobsstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NS, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+3,2021-12-11 11:47:23,253997,2,iPhone 6,52.651713888889,5.0841833333333,Yes,"52, Aletta Jacobsstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NP, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+4,2021-12-11 11:47:24,252818,2,iPhone 6,52.651766666667,5.0842055555556,Yes,"32, Aletta Jacobsstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NP, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+5,2021-12-11 11:47:26,253998,2,iPhone 6,52.651766666667,5.0842055555556,Yes,"32, Aletta Jacobsstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NP, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0

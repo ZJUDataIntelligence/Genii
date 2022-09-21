@@ -1,0 +1,4 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-06-17 11:17:44,178871,2,iPhone 6,52.653538888889,5.0842611111111,Yes,"22, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, The Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,2021-06-17 11:17:51,173245,2,iPhone 6,52.653569444444,5.0840305555556,Yes,"16, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2,2021-06-17 11:44:59,172543,2,iPhone 6,52.652888888889,5.0852666666667,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

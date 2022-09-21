@@ -1,0 +1,5 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-02-25 11:44:05,255449,2,iPhone 6,52.652461111111,5.0818583333333,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1,2021-02-25 11:44:08,132311,2,iPhone 6,52.652461111111,5.0818583333333,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-02-25 11:44:10,226342,2,iPhone 6,52.652461111111,5.0818583333333,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+3,2021-02-25 11:46:51,255898,2,iPhone 6,52.65195,5.0806194444444,Yes,"Ecoproject Het Lantaarntje, Zaanweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

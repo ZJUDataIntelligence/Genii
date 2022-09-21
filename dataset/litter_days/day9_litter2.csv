@@ -1,0 +1,25 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-02-18 09:45:26,225847,2,iPhone 6,52.663477777778,5.0540472222222,Yes,"Zwaagmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689LP, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-02-18 09:46:04,257608,2,iPhone 6,52.663897222222,5.0540166666667,Yes,"Ballenbrug, Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689LP, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2,2021-02-18 09:46:39,131032,2,iPhone 6,52.664116666667,5.0541055555556,Yes,"Berkmergouw, Winkelcentrum De Korenbloem, Zwaag, Hoorn, North Holland, Netherlands, 1689LP, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+3,2021-02-18 09:47:21,178211,2,iPhone 6,52.664047222222,5.0530888888889,Yes,"Berkmergouw, Winkelcentrum De Korenbloem, Zwaag, Hoorn, North Holland, Netherlands, 1689RD, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-02-18 09:48:05,225848,2,iPhone 6,52.664038888889,5.0520222222222,Yes,"25, Boterbloem, Zwaag, Hoorn, North Holland, Netherlands, 1689RD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+5,2021-02-18 09:48:43,178213,2,iPhone 6,52.664141666667,5.0519638888889,Yes,"25, Boterbloem, Winkelcentrum De Korenbloem, Zwaag, Hoorn, North Holland, Netherlands, 1689RD, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-02-18 09:49:15,256176,2,iPhone 6,52.663977777778,5.0512472222222,Yes,"17, Boterbloem, Zwaag, Hoorn, North Holland, Netherlands, 1689RD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+7,2021-02-18 09:50:10,178216,2,iPhone 6,52.663716666667,5.05165,Yes,"Labyrinth, Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689MG, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+8,2021-02-18 09:50:14,255057,2,iPhone 6,52.663780555556,5.0516333333333,Yes,"Labyrinth, Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689MG, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,2021-02-18 09:52:01,256882,2,iPhone 6,52.663897222222,5.0479527777778,Yes,"Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689RR, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,2021-02-18 09:53:22,131629,2,iPhone 6,52.664861111111,5.0472972222222,Yes,"De Opgang, Winkelcentrum De Korenbloem, Zwaag, Hoorn, North Holland, Netherlands, 1689RW, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+11,2021-02-18 09:54:33,179290,2,iPhone 6,52.665458333333,5.0461361111111,Yes,"68, Brandnetel, Zwaag, Hoorn, North Holland, Netherlands, 1689SE, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+12,2021-02-18 10:16:55,227570,2,iPhone 6,52.664366666667,5.0469388888889,Yes,"35, Brandnetel, Zwaag, Hoorn, North Holland, Netherlands, 1689SC, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+13,2021-02-18 10:16:57,227040,2,iPhone 6,52.664366666667,5.0469388888889,Yes,"35, Brandnetel, Zwaag, Hoorn, North Holland, Netherlands, 1689SC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+14,2021-02-18 10:20:18,259350,2,iPhone 6,52.663844444444,5.0522,Yes,"Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689MG, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,2021-02-18 10:20:48,278575,2,iPhone 6,52.663861111111,5.0522333333333,Yes,"Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689RD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+16,2021-02-18 10:21:35,131630,2,iPhone 6,52.663661111111,5.05265,Yes,"Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689MG, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+17,2021-02-18 10:21:37,178433,2,iPhone 6,52.663741666667,5.0526722222222,Yes,"Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689MG, The Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,2021-02-18 10:21:39,178434,2,iPhone 6,52.663741666667,5.0526722222222,Yes,"Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689MG, The Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,2021-02-18 10:22:09,131631,2,iPhone 6,52.663819444444,5.0528027777778,Yes,"Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689MG, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+20,2021-02-18 10:23:21,131033,2,iPhone 6,52.6634,5.0544166666667,Yes,"Zwaagmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689LP, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+21,2021-02-18 10:23:51,178218,2,iPhone 6,52.663425,5.0541666666667,Yes,"Zwaagmergouw, Winkelcentrum De Korenbloem, Zwaag, Hoorn, North Holland, Netherlands, 1689LP, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+22,2021-02-18 10:25:09,131034,2,iPhone 6,52.661188888889,5.0547361111111,Yes,"79, 't Grachtje over, Hoorn, North Holland, Netherlands, 1625PK, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+23,2021-02-18 10:26:08,225849,2,iPhone 6,52.660941666667,5.0548944444444,Yes,"86, 't Grachtje over, Hoorn, North Holland, Netherlands, 1625PK, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

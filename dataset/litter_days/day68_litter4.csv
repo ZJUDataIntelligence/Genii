@@ -1,0 +1,3 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-05-13 08:51:55,226733,2,iPhone 6,52.654372222222,5.082675,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+1,2021-05-13 08:51:57,176429,2,iPhone 6,52.654380555556,5.0826638888889,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, The Netherlands",4.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0

@@ -1,0 +1,5 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-07-14 14:01:38,225228,2,iPhone 6,52.666733333333,5.0546444444444,Yes,"19, De Lange Akker, Zwaag, Hoorn, North Holland, Netherlands, 1689KX, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-07-14 14:08:52,228157,2,iPhone 6,52.667838888889,5.0501916666667,Yes,"46, Weegbree, Zwaag, Hoorn, North Holland, Netherlands, 1689NC, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+2,2021-07-14 14:09:52,223181,2,iPhone 6,52.666744444444,5.0496638888889,Yes,"De Opgang, Zwaag, Hoorn, North Holland, Netherlands, 1689NK, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+3,2021-07-14 14:10:57,252987,2,iPhone 6,52.666663888889,5.04955,Yes,"De Opgang, Zwaag, Hoorn, North Holland, Netherlands, 1689NK, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

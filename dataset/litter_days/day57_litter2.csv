@@ -1,0 +1,8 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-04-28 14:26:54,226406,2,iPhone 6,52.648013888889,5.0614777777778,Yes,"Uitvaartcentrum Johannes Poststraat, 26, Johannes Poststraat, Hoorn, North Holland, Netherlands, 1624CC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-04-28 14:27:33,163857,2,iPhone 6,52.647913888889,5.0610611111111,Yes,"Uitvaartcentrum Johannes Poststraat, 26, Johannes Poststraat, Hoorn, North Holland, Netherlands, 1624CC, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-04-28 14:46:46,172264,2,iPhone 6,52.646336111111,5.0518916666667,Yes,"Albert Heijn, 19, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, The Netherlands",2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+3,2021-04-28 14:50:14,227499,2,iPhone 6,52.650108333333,5.0581277777778,Yes,"Sportcentrum Vredehof, 5, Vredehofstraat, Hoorn, North Holland, Netherlands, 1624XG, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+4,2021-04-28 14:50:54,227500,2,iPhone 6,52.650002777778,5.0584527777778,Yes,"Sportcentrum Vredehof, 5, Vredehofstraat, Hoorn, North Holland, Netherlands, 1624XG, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+5,2021-04-28 14:51:29,167124,2,iPhone 6,52.650094444444,5.0586,Yes,"Sportcentrum Vredehof, 5, Vredehofstraat, Hoorn, North Holland, Netherlands, 1624XG, The Netherlands",2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+6,2021-04-28 14:51:31,226918,2,iPhone 6,52.650094444444,5.0586,Yes,"Sportcentrum Vredehof, 5, Vredehofstraat, Hoorn, North Holland, Netherlands, 1624XG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

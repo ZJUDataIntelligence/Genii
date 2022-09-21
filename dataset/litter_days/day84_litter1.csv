@@ -1,0 +1,25 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-06-09 10:51:34,172323,2,iPhone 6,52.646083333333,5.0527027777778,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+1,2021-06-09 10:52:26,258709,2,iPhone 6,52.646422222222,5.0527916666667,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,2021-06-09 10:52:27,257731,2,iPhone 6,52.646422222222,5.0527916666667,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,2021-06-09 10:52:29,257196,2,iPhone 6,52.646422222222,5.0527916666667,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+4,2021-06-09 10:52:31,178603,2,iPhone 6,52.646422222222,5.0527916666667,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, The Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,2021-06-09 10:53:12,256665,2,iPhone 6,52.646477777778,5.0530944444444,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+6,2021-06-09 10:53:14,172664,2,iPhone 6,52.646477777778,5.0530944444444,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-06-09 10:53:15,257730,2,iPhone 6,52.646477777778,5.0530944444444,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,2021-06-09 10:53:49,256666,2,iPhone 6,52.646375,5.053025,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+9,2021-06-09 10:53:50,176304,2,iPhone 6,52.646375,5.0530166666667,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, The Netherlands",2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+10,2021-06-09 10:54:27,256924,2,iPhone 6,52.646119444444,5.0523388888889,Yes,"Albert Heijn, 19, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+11,2021-06-09 10:54:49,257474,2,iPhone 6,52.646358333333,5.0524861111111,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+12,2021-06-09 10:54:51,178604,2,iPhone 6,52.646358333333,5.0524861111111,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, The Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,2021-06-09 10:55:21,172438,2,iPhone 6,52.646366666667,5.0525944444444,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+14,2021-06-09 10:56:17,256667,2,iPhone 6,52.64655,5.0528,Yes,"Ondeelbaar verlangen, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+15,2021-06-09 10:56:44,257729,2,iPhone 6,52.646194444444,5.0515638888889,Yes,"Albert Heijn, 19, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,2021-06-09 10:57:13,226481,2,iPhone 6,52.646202777778,5.0512194444444,Yes,"Albert Heijn, 19, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+17,2021-06-09 10:57:14,257728,2,iPhone 6,52.646202777778,5.0512194444444,Yes,"Albert Heijn, 19, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,2021-06-09 10:57:16,256668,2,iPhone 6,52.646202777778,5.0512194444444,Yes,"Albert Heijn, 19, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+19,2021-06-09 10:57:54,226482,2,iPhone 6,52.645936111111,5.0528361111111,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+20,2021-06-09 10:58:22,256660,2,iPhone 6,52.646238888889,5.0513972222222,Yes,"Albert Heijn, 19, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+21,2021-06-09 10:58:24,257727,2,iPhone 6,52.646238888889,5.0513972222222,Yes,"Albert Heijn, 19, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,2021-06-09 10:59:17,228059,2,iPhone 6,52.646258333333,5.051575,Yes,"Albert Heijn, 19, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+23,2021-06-09 10:59:18,176209,2,iPhone 6,52.646213888889,5.0515194444444,Yes,"Albert Heijn, 19, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, The Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,8 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-03-07 11:15:29,227308,2,iPhone 6,52.654616666667,5.0843916666667,Yes,"36, Kasteellaan, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KP, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-03-07 11:15:31,130917,2,iPhone 6,52.654572222222,5.0844722222222,Yes,"Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KP, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-03-07 11:16:21,254507,2,iPhone 6,52.654816666667,5.0840388888889,Yes,"39, Kasteellaan, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KP, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+3,2021-03-07 11:17:45,255040,2,iPhone 6,52.655197222222,5.0842305555556,Yes,"144, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,2021-03-07 11:19:23,176477,2,iPhone 6,52.655316666667,5.0843583333333,Yes,"144, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+5,2021-03-07 11:20:06,176478,2,iPhone 6,52.655052777778,5.0842805555556,Yes,"21, Radboudgracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KL, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+6,2021-03-07 11:21:37,259213,2,iPhone 6,52.654955555556,5.0840527777778,Yes,"39, Kasteellaan, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KP, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

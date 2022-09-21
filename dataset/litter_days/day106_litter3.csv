@@ -1,0 +1,9 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-07-04 09:54:29,225130,2,iPhone 6,52.652438888889,5.081375,Yes,"44, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AL, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-07-04 09:54:35,221779,2,iPhone 6,52.652438888889,5.081375,Yes,"44, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AL, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-07-04 09:55:21,278349,2,iPhone 6,52.652308333333,5.0803388888889,Yes,"72, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+3,2021-07-04 09:56:09,228019,2,iPhone 6,52.652441666667,5.0813916666667,Yes,"44, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AL, Netherlands",2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+4,2021-07-04 09:56:11,255359,2,iPhone 6,52.652516666667,5.0820638888889,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+5,2021-07-04 09:58:48,258603,2,iPhone 6,52.652908333333,5.0816388888889,Yes,"28, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AB, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,2021-07-04 10:00:23,225131,2,iPhone 6,52.652041666667,5.0787027777778,Yes,"51, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CH, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+7,2021-07-04 10:21:05,278328,2,iPhone 6,52.650813888889,5.0814916666667,Yes,"3, Stijl, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628HA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,10 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-04-25 10:48:09,255522,2,iPhone 6,52.647605555556,5.0596,Yes,"27, Johannes Poststraat, Hoorn, North Holland, Netherlands, 1624CA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1,2021-04-25 10:50:40,228375,2,iPhone 6,52.646766666667,5.055925,Yes,"Haas, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624AH, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-04-25 10:53:03,163817,2,iPhone 6,52.646375,5.0528194444444,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+3,2021-04-25 10:53:09,258983,2,iPhone 6,52.646666666667,5.0528972222222,Yes,"Ondeelbaar verlangen, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,2021-04-25 10:54:43,163818,2,iPhone 6,52.646605555556,5.0522,Yes,"Albert Heijn, 19, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,2021-04-25 11:15:47,259804,2,iPhone 6,52.646655555556,5.05305,No,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,2021-04-25 11:16:37,178200,2,iPhone 6,52.646530555556,5.0535166666667,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-04-25 11:16:38,163819,2,iPhone 6,52.646430555556,5.0533305555556,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+8,2021-04-25 11:18:15,226469,2,iPhone 6,52.647277777778,5.0578416666667,Yes,"3, Johannes Poststraat, Hoorn, North Holland, Netherlands, 1624CA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

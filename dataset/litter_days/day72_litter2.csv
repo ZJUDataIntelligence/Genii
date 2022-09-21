@@ -1,0 +1,10 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-05-18 15:16:03,163488,2,iPhone 6,52.654461111111,5.0869388888889,Yes,"20, Bolwerk, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KW, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-05-18 15:16:05,256184,2,iPhone 6,52.654391666667,5.0869527777778,Yes,"23, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628PB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2,2021-05-18 15:16:30,178863,2,iPhone 6,52.654266666667,5.0867916666667,Yes,"17, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628PB, The Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,2021-05-18 15:17:02,163297,2,iPhone 6,52.654080555556,5.0867305555556,Yes,"18, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628PB, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+4,2021-05-18 15:17:32,162562,2,iPhone 6,52.654097222222,5.0865694444444,Yes,"20, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628PB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+5,2021-05-18 15:18:02,177015,2,iPhone 6,52.654052777778,5.0867194444444,Yes,"19, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628PB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-05-18 15:18:03,162783,2,iPhone 6,52.65405,5.0866888888889,Yes,"19, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628PB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-05-18 15:18:05,163489,2,iPhone 6,52.65405,5.0866888888889,Yes,"19, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628PB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+8,2021-05-18 15:18:49,162563,2,iPhone 6,52.653811111111,5.0859083333333,Yes,"41, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628PC, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0

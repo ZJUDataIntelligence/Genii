@@ -1,0 +1,12 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-07-01 09:09:26,225419,2,iPhone 6,52.650233333333,5.0864611111111,Yes,"35, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-07-01 09:11:24,225081,2,iPhone 6,52.648941666667,5.0862833333333,Yes,"71, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-07-01 09:12:08,221596,2,iPhone 6,52.649113888889,5.0858666666667,Yes,"68, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LD, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+3,2021-07-01 09:13:06,221597,2,iPhone 6,52.648752777778,5.085575,Yes,"118, Pergola, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LX, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-07-01 09:13:55,222767,2,iPhone 6,52.648766666667,5.0853527777778,Yes,"118, Pergola, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LX, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,2021-07-01 09:13:56,221599,2,iPhone 6,52.648766666667,5.0853527777778,Yes,"118, Pergola, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LX, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-07-01 09:13:57,222768,2,iPhone 6,52.648766666667,5.0853527777778,Yes,"118, Pergola, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LX, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-07-01 09:13:59,222769,2,iPhone 6,52.648766666667,5.0853527777778,Yes,"118, Pergola, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LX, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+8,2021-07-01 09:15:42,255578,2,iPhone 6,52.648558333333,5.0852777777778,Yes,"114, Pergola, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LX, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+9,2021-07-01 09:15:45,256756,2,iPhone 6,52.648697222222,5.0853694444444,Yes,"118, Pergola, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LX, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+10,2021-07-01 09:16:48,221601,2,iPhone 6,52.648588888889,5.0849611111111,Yes,"54, Pergola, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LN, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

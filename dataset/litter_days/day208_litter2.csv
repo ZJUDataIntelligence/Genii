@@ -1,0 +1,3 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2022-01-20 12:35:43,255740,2,iPhone 12,52.648888333333,5.0636471666667,No,"40A, Johannes Poststraat, Hoorn, North Holland, Netherlands, 1624CD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1,2022-01-20 12:36:05,255688,2,iPhone 12,52.648871666667,5.0636721666667,No,"40A, Johannes Poststraat, Hoorn, North Holland, Netherlands, 1624CD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

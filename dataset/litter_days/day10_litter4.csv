@@ -1,0 +1,24 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-02-19 13:45:41,178236,2,iPhone 6,52.644141666667,5.0511805555556,Yes,"Former Jewish cemetry, De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622AD, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-02-19 13:45:43,178761,2,iPhone 6,52.644141666667,5.0511805555556,Yes,"Former Jewish cemetry, De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622AD, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2,2021-02-19 13:46:59,256642,2,iPhone 6,52.643363888889,5.048875,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622DJ, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,2021-02-19 13:47:35,178859,2,iPhone 6,52.643288888889,5.0483277777778,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622AD, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+4,2021-02-19 13:49:14,178237,2,iPhone 6,52.641952777778,5.0432555555556,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622BA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,2021-02-19 13:50:18,178238,2,iPhone 6,52.641575,5.0425833333333,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622DJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-02-19 13:50:19,131037,2,iPhone 6,52.641880555556,5.04245,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622BA, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+7,2021-02-19 13:50:21,256254,2,iPhone 6,52.641852777778,5.0425861111111,No,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622AD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+8,2021-02-19 13:51:11,178912,2,iPhone 6,52.641802777778,5.0425027777778,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622BA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+9,2021-02-19 13:51:13,178239,2,iPhone 6,52.641858333333,5.0426888888889,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622BA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+10,2021-02-19 13:51:15,178240,2,iPhone 6,52.641858333333,5.0426888888889,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622BA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+11,2021-02-19 13:51:44,178241,2,iPhone 6,52.641858333333,5.0431472222222,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622DJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+12,2021-02-19 13:52:21,178242,2,iPhone 6,52.641705555556,5.0421972222222,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622DJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+13,2021-02-19 15:18:03,131040,2,iPhone 6,52.641102777778,5.0415388888889,Yes,"36, Astronautenweg, Grote Waal, Hoorn, North Holland, Netherlands, 1622DC, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+14,2021-02-19 15:18:48,131245,2,iPhone 6,52.641705555556,5.0408194444444,Yes,"900, Steenbokstraat, Grote Waal, Hoorn, North Holland, Netherlands, 1622BN, The Netherlands",2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+15,2021-02-19 15:18:50,131041,2,iPhone 6,52.641502777778,5.040925,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622AD, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+16,2021-02-19 15:19:47,259376,2,iPhone 6,52.641655555556,5.0430722222222,Yes,"15, Astronautenweg, Grote Waal, Hoorn, North Holland, Netherlands, 1622DA, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,2021-02-19 15:20:17,254126,2,iPhone 6,52.641991666667,5.0434611111111,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622DJ, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+18,2021-02-19 15:20:49,178861,2,iPhone 6,52.642016666667,5.0433861111111,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622BA, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+19,2021-02-19 15:21:43,178762,2,iPhone 6,52.642252777778,5.0443361111111,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622AD, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+20,2021-02-19 15:21:44,179342,2,iPhone 6,52.642113888889,5.0443166666667,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622DJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+21,2021-02-19 15:22:34,178342,2,iPhone 6,52.642413888889,5.0457277777778,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622DJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+22,2021-02-19 15:23:29,179343,2,iPhone 6,52.642733333333,5.0466888888889,Yes,"De Weel, Grote Waal, Hoorn, North Holland, Netherlands, 1622AD, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

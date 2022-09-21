@@ -1,0 +1,7 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-06-04 10:23:18,255502,2,iPhone 6,52.652880555556,5.0854083333333,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1,2021-06-04 10:40:11,256803,2,iPhone 6,52.653733333333,5.0839083333333,Yes,"19, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,2021-06-04 11:15:05,172905,2,iPhone 6,52.655480555556,5.085225,Yes,"31, Radboudgracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KL, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+3,2021-06-04 11:15:07,172247,2,iPhone 6,52.655602777778,5.0852972222222,Yes,"14, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DA, The Netherlands",2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+4,2021-06-04 11:15:49,255395,2,iPhone 6,52.655675,5.0845138888889,Yes,"Wereldwijzer, 144, Nachtegaal, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+5,2021-06-04 11:16:29,178665,2,iPhone 6,52.654872222222,5.083725,Yes,"1, Kasteellaan, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KN, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

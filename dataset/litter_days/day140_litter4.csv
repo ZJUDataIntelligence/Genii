@@ -1,0 +1,15 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-09-02 08:27:45,258432,2,iPhone 6,52.663258333333,5.0540361111111,Yes,"Zwaagmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689LP, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,2021-09-02 08:29:09,222568,2,iPhone 6,52.663805555556,5.0515083333333,Yes,"Labyrinth, Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689MG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-09-02 08:31:06,223544,2,iPhone 6,52.663905555556,5.0503916666667,Yes,"Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689RR, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+3,2021-09-02 09:06:07,226473,2,iPhone 6,52.665627777778,5.0465,Yes,"Wogmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689PZ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+4,2021-09-02 09:07:12,254415,2,iPhone 6,52.66555,5.0465694444444,Yes,"Wogmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689NZ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+5,2021-09-02 09:09:01,223545,2,iPhone 6,52.663702777778,5.0497416666667,Yes,"Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689MG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-09-02 09:09:04,227644,2,iPhone 6,52.663702777778,5.0497416666667,Yes,"Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689MG, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+7,2021-09-02 09:09:54,223546,2,iPhone 6,52.663897222222,5.0494972222222,Yes,"75, Paardebloem, Zwaag, Hoorn, North Holland, Netherlands, 1689RR, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+8,2021-09-02 09:09:56,228084,2,iPhone 6,52.663655555556,5.0495138888889,Yes,"Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689MG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+9,2021-09-02 09:10:44,225866,2,iPhone 6,52.663852777778,5.0503111111111,Yes,"Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689RR, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+10,2021-09-02 09:11:44,222569,2,iPhone 6,52.663708333333,5.052925,Yes,"Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689MG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+11,2021-09-02 09:12:24,254479,2,iPhone 6,52.663833333333,5.0530444444444,Yes,"Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689MG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+12,2021-09-02 09:12:25,223547,2,iPhone 6,52.663863888889,5.0530361111111,Yes,"Berkmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689MG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+13,2021-09-02 09:13:20,258433,2,iPhone 6,52.663411111111,5.0543138888889,Yes,"Zwaagmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689LP, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,21 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-11-28 08:08:45,255072,2,iPhone 6,52.652486111111,5.0803027777778,Yes,"75, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,2021-11-28 08:51:57,253944,2,iPhone 6,52.652458333333,5.0798777777778,Yes,"Zaanweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+2,2021-11-28 15:15:17,253230,2,iPhone 6,52.652441666667,5.0796916666667,Yes,"Zaanweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+3,2021-11-28 15:16:38,253523,2,iPhone 6,52.653061111111,5.0794888888889,Yes,"2, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AJ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-11-28 15:16:40,254846,2,iPhone 6,52.653030555556,5.0794944444444,Yes,"2, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AJ, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,2021-11-28 15:16:41,253945,2,iPhone 6,52.653030555556,5.0794944444444,Yes,"2, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AJ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+6,2021-11-28 15:17:33,252408,2,iPhone 6,52.653080555556,5.0795416666667,Yes,"2, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AJ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+7,2021-11-28 15:18:39,253524,2,iPhone 6,52.653186111111,5.0795944444444,Yes,"7, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AJ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+8,2021-11-28 15:19:19,255661,2,iPhone 6,52.653038888889,5.0794611111111,Yes,"2, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AJ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+9,2021-11-28 15:19:21,254849,2,iPhone 6,52.653038888889,5.0794611111111,Yes,"2, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AJ, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,2021-11-28 15:20:31,255663,2,iPhone 6,52.652930555556,5.0791388888889,Yes,"93, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AP, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+11,2021-11-28 15:20:56,253231,2,iPhone 6,52.653172222222,5.0792861111111,Yes,"2, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AJ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+12,2021-11-28 15:22:09,252917,2,iPhone 6,52.653666666667,5.0800694444444,Yes,"35, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+13,2021-11-28 15:23:12,253013,2,iPhone 6,52.653252777778,5.0800416666667,Yes,"40, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+14,2021-11-28 15:23:13,253232,2,iPhone 6,52.653530555556,5.0802611111111,Yes,"35, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+15,2021-11-28 15:23:15,259552,2,iPhone 6,52.653530555556,5.0802611111111,Yes,"35, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+16,2021-11-28 15:25:45,255662,2,iPhone 6,52.653963888889,5.0799777777778,Yes,"21, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AS, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+17,2021-11-28 15:25:47,253525,2,iPhone 6,52.65385,5.0801388888889,Yes,"35, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+18,2021-11-28 15:33:41,253946,2,iPhone 6,52.652377777778,5.0805861111111,Yes,"70, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+19,2021-11-28 15:34:31,253233,2,iPhone 6,52.652294444444,5.0800305555556,Yes,"Zaanweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

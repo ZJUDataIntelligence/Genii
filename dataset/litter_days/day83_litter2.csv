@@ -1,0 +1,9 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-06-08 15:45:22,258706,2,iPhone 6,52.650002777778,5.0673638888889,Yes,"Liornestraat, Hoorn, North Holland, Netherlands, 1624GD, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,2021-06-08 15:45:40,257739,2,iPhone 6,52.649966666667,5.0669638888889,Yes,"de Zaagtand, Liornestraat, Hoorn, North Holland, Netherlands, 1624HM, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,2021-06-08 15:45:43,257738,2,iPhone 6,52.649944444444,5.0670333333333,Yes,"Liornestraat, Hoorn, North Holland, Netherlands, 1624GD, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,2021-06-08 15:45:46,257737,2,iPhone 6,52.649944444444,5.0670333333333,Yes,"Liornestraat, Hoorn, North Holland, Netherlands, 1624GD, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,2021-06-08 15:46:13,257736,2,iPhone 6,52.650063888889,5.0674388888889,Yes,"Wabenstraat, Hoorn, North Holland, Netherlands, 1624HA, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,2021-06-08 15:48:26,256818,2,iPhone 6,52.649769444444,5.0671,Yes,"Liornestraat, Hoorn, North Holland, Netherlands, 1624GD, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+6,2021-06-08 15:48:56,172653,2,iPhone 6,52.649669444444,5.0668833333333,Yes,"Johannes Poststraat, Hoorn, North Holland, Netherlands, 1624HK, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-06-08 15:50:31,222193,2,iPhone 6,52.650105555556,5.0670138888889,Yes,"Wabenstraat, Liornestraat, Hoorn, North Holland, Netherlands, 1624HM, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

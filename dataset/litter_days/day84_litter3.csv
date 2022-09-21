@@ -1,0 +1,15 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-06-09 11:17:41,172324,2,iPhone 6,52.647061111111,5.0573472222222,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624AH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+1,2021-06-09 11:18:07,172325,2,iPhone 6,52.647536111111,5.0577333333333,Yes,"6, Tweeboomlaan, Hoorn, North Holland, Netherlands, 1624EE, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+2,2021-06-09 11:18:33,172439,2,iPhone 6,52.647391666667,5.057075,Yes,"71, Koepoortsweg, Hoorn, North Holland, Netherlands, 1624AC, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+3,2021-06-09 11:18:35,172440,2,iPhone 6,52.647391666667,5.057075,Yes,"71, Koepoortsweg, Hoorn, North Holland, Netherlands, 1624AC, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-06-09 11:19:58,172665,2,iPhone 6,52.649211111111,5.0563777777778,Yes,"120, Koepoortsweg, Hoorn, North Holland, Netherlands, 1624AJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,2021-06-09 11:20:43,227111,2,iPhone 6,52.649277777778,5.0560222222222,Yes,"121, Koepoortsweg, Hoorn, North Holland, Netherlands, 1624AD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+6,2021-06-09 11:21:16,172666,2,iPhone 6,52.649611111111,5.0564888888889,Yes,"1, Vredehofstraat, Hoorn, North Holland, Netherlands, 1624XG, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-06-09 11:21:55,172087,2,iPhone 6,52.649536111111,5.0573194444444,Yes,"2, Vredehofstraat, Hoorn, North Holland, Netherlands, 1624XH, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+8,2021-06-09 11:21:57,256911,2,iPhone 6,52.649536111111,5.0573194444444,Yes,"2, Vredehofstraat, Hoorn, North Holland, Netherlands, 1624XH, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+9,2021-06-09 11:22:46,172294,2,iPhone 6,52.649986111111,5.0586777777778,Yes,"18, Vredehofstraat, Hoorn, North Holland, Netherlands, 1624XH, The Netherlands",2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+10,2021-06-09 11:23:18,172441,2,iPhone 6,52.650136111111,5.0590194444444,Yes,"22, Vredehofstraat, Hoorn, North Holland, Netherlands, 1624XH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+11,2021-06-09 11:24:12,172148,2,iPhone 6,52.650086111111,5.0589861111111,Yes,"20, Vredehofstraat, Hoorn, North Holland, Netherlands, 1624XH, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+12,2021-06-09 11:24:14,172149,2,iPhone 6,52.650086111111,5.0589861111111,Yes,"20, Vredehofstraat, Hoorn, North Holland, Netherlands, 1624XH, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+13,2021-06-09 11:25:02,172123,2,iPhone 6,52.650122222222,5.0589527777778,Yes,"20, Vredehofstraat, Hoorn, North Holland, Netherlands, 1624XH, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

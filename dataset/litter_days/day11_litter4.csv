@@ -1,0 +1,20 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-02-20 09:08:29,179346,2,iPhone 6,52.651705555556,5.0780305555556,Yes,"58, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-02-20 09:08:31,178347,2,iPhone 6,52.651783333333,5.0780222222222,Yes,"58, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-02-20 09:09:20,178348,2,iPhone 6,52.651969444444,5.0781111111111,Yes,"56, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+3,2021-02-20 09:09:23,178349,2,iPhone 6,52.651969444444,5.0781111111111,Yes,"56, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-02-20 09:09:51,178435,2,iPhone 6,52.651844444444,5.0780916666667,Yes,"57, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CJ, The Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,2021-02-20 09:09:52,178350,2,iPhone 6,52.651683333333,5.0779611111111,Yes,"59, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-02-20 09:10:54,259378,2,iPhone 6,52.65245,5.0775611111111,Yes,"28, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CG, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,2021-02-20 09:10:56,178351,2,iPhone 6,52.651719444444,5.0782333333333,Yes,"55, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+8,2021-02-20 09:11:19,178352,2,iPhone 6,52.651719444444,5.0782333333333,Yes,"55, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+9,2021-02-20 09:11:55,178353,2,iPhone 6,52.651713888889,5.0780555555556,Yes,"58, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+10,2021-02-20 09:13:01,178354,2,iPhone 6,52.651572222222,5.0783611111111,Yes,"54, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+11,2021-02-20 09:13:04,259379,2,iPhone 6,52.651608333333,5.0784305555556,Yes,"53, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CJ, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,2021-02-20 09:13:06,179347,2,iPhone 6,52.651644444444,5.0784861111111,Yes,"52, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+13,2021-02-20 09:13:08,259380,2,iPhone 6,52.651663888889,5.0785027777778,Yes,"52, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CJ, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,2021-02-20 09:13:10,259381,2,iPhone 6,52.651663888889,5.0785027777778,Yes,"52, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CJ, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,2021-02-20 09:13:22,178356,2,iPhone 6,52.651713888889,5.0785222222222,Yes,"52, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+16,2021-02-20 09:13:26,178357,2,iPhone 6,52.651713888889,5.0785222222222,Yes,"52, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CJ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+17,2021-02-20 09:14:26,178358,2,iPhone 6,52.651855555556,5.0785972222222,Yes,"51, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+18,2021-02-20 09:15:31,256179,2,iPhone 6,52.651822222222,5.0790527777778,Yes,"51, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CH, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

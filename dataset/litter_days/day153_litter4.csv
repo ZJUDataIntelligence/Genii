@@ -1,0 +1,3 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-09-24 13:21:49,255628,2,iPhone 6,52.652313888889,5.0813972222222,Yes,"44, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AL, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+1,2021-09-24 13:21:55,255629,2,iPhone 6,52.652305555556,5.0813583333333,Yes,"43, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AL, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0

@@ -1,0 +1,21 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-11-01 08:56:28,256618,2,iPhone 6,52.652527777778,5.0818527777778,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,2021-11-01 08:56:30,255312,2,iPhone 6,52.652527777778,5.0818527777778,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2,2021-11-01 08:57:07,253048,2,iPhone 6,52.652644444444,5.0815638888889,Yes,"30, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+3,2021-11-01 08:57:08,253257,2,iPhone 6,52.65245,5.0821055555556,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-11-01 08:57:09,253258,2,iPhone 6,52.652477777778,5.0820888888889,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,2021-11-01 08:57:12,253049,2,iPhone 6,52.652502777778,5.0819916666667,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-11-01 08:57:15,253259,2,iPhone 6,52.652508333333,5.0819805555556,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-11-01 08:58:23,252841,2,iPhone 6,52.652572222222,5.0818083333333,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+8,2021-11-01 14:09:20,253822,2,iPhone 6,52.650708333333,5.0821083333333,Yes,"13, Stijl, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628HA, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,2021-11-01 14:09:52,252752,2,iPhone 6,52.650761111111,5.0821388888889,Yes,"14, Stijl, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628HA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+10,2021-11-01 14:09:54,256081,2,iPhone 6,52.650825,5.0821083333333,No,"14, Stijl, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628HA, Netherlands",2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,2021-11-01 14:11:03,257246,2,iPhone 6,52.650380555556,5.0836388888889,Yes,"13, Groef, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628HK, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+12,2021-11-01 14:11:05,254547,2,iPhone 6,52.650841666667,5.0830277777778,Yes,"59, Messing, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628HH, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+13,2021-11-01 14:11:06,254548,2,iPhone 6,52.650841666667,5.0830277777778,Yes,"59, Messing, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628HH, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+14,2021-11-01 14:11:13,252590,2,iPhone 6,52.650841666667,5.0830277777778,Yes,"59, Messing, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628HH, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+15,2021-11-01 14:12:04,252684,2,iPhone 6,52.65075,5.0828833333333,Yes,"57, Messing, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628HH, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+16,2021-11-01 15:17:03,254876,2,iPhone 6,52.652430555556,5.0828194444444,Yes,"66, Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KE, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,2021-11-01 15:17:49,256601,2,iPhone 6,52.652397222222,5.0827083333333,Yes,"52, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,2021-11-01 15:17:50,253059,2,iPhone 6,52.652397222222,5.0827083333333,Yes,"52, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AD, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+19,2021-11-01 15:26:33,258136,2,iPhone 6,52.652855555556,5.0807305555556,Yes,"19, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AJ, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

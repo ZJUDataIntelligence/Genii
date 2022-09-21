@@ -1,0 +1,6 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-10-24 13:17:50,253742,2,iPhone 6,52.644377777778,5.0675777777778,Yes,"Bontekoestraat, Hoorn, North Holland, Netherlands, 1623LM, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-10-24 13:17:56,223186,2,iPhone 6,52.644355555556,5.06765,Yes,"Bontekoestraat, Hoorn, North Holland, Netherlands, 1623LM, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-10-24 13:18:29,226440,2,iPhone 6,52.644194444444,5.0674083333333,Yes,"2, J.D. Pollstraat, Hoorn, North Holland, Netherlands, 1623LM, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+3,2021-10-24 13:18:31,222120,2,iPhone 6,52.644233333333,5.0675027777778,Yes,"Bontekoestraat, Hoorn, North Holland, Netherlands, 1623LM, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-10-24 13:18:37,222121,2,iPhone 6,52.644275,5.0676,Yes,"Bontekoestraat, Hoorn, North Holland, Netherlands, 1623LM, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

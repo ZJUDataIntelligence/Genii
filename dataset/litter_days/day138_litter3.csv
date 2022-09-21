@@ -1,0 +1,18 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-08-31 10:32:19,258420,2,iPhone 6,52.649261111111,5.0561694444444,Yes,"124, Koepoortsweg, Hoorn, North Holland, Netherlands, 1624AJ, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,2021-08-31 10:33:24,223527,2,iPhone 6,52.648055555556,5.0568555555556,Yes,"92, Koepoortsweg, Hoorn, North Holland, Netherlands, 1624AH, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-08-31 10:33:25,223528,2,iPhone 6,52.648152777778,5.0568527777778,Yes,"94, Koepoortsweg, Hoorn, North Holland, Netherlands, 1624AH, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+3,2021-08-31 10:33:27,223529,2,iPhone 6,52.648113888889,5.0568,Yes,"89, Koepoortsweg, Hoorn, North Holland, Netherlands, 1624AC, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-08-31 10:34:13,268244,2,iPhone 6,52.647841666667,5.0569638888889,Yes,"77, Koepoortsweg, Hoorn, North Holland, Netherlands, 1624AC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+5,2021-08-31 10:35:08,258421,2,iPhone 6,52.647127777778,5.0570472222222,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624AH, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,2021-08-31 10:35:39,254385,2,iPhone 6,52.647202777778,5.0570027777778,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624AH, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+7,2021-08-31 10:37:28,254173,2,iPhone 6,52.648041666667,5.0542972222222,Yes,"GGZ Noord-Holland-Noord, 1, Maelsonstraat, Hoorn, North Holland, Netherlands, 1624NP, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+8,2021-08-31 10:37:30,227169,2,iPhone 6,52.646647222222,5.0514111111111,Yes,"6D, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+9,2021-08-31 10:38:25,225354,2,iPhone 6,52.646175,5.0511194444444,Yes,"Albert Heijn, 19, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+10,2021-08-31 10:38:26,228454,2,iPhone 6,52.646175,5.0511194444444,Yes,"Albert Heijn, 19, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+11,2021-08-31 11:08:27,223530,2,iPhone 6,52.64655,5.0513916666667,Yes,"Tandheelkundig Centrum Van Dedem, 6A, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+12,2021-08-31 11:08:34,258422,2,iPhone 6,52.6465,5.0514416666667,Yes,"Albert Heijn, 19, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,2021-08-31 11:09:46,257002,2,iPhone 6,52.646522222222,5.0528333333333,Yes,"Ondeelbaar verlangen, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+14,2021-08-31 11:10:40,254113,2,iPhone 6,52.646447222222,5.0528555555556,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+15,2021-08-31 11:10:42,222554,2,iPhone 6,52.646377777778,5.0531777777778,Yes,"Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624NN, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+16,2021-08-31 11:12:09,228077,2,iPhone 6,52.646869444444,5.0564694444444,Yes,"Koepoortsweg, Van Dedemstraat, Hoorn, North Holland, Netherlands, 1624AH, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0

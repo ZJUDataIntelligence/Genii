@@ -1,0 +1,9 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-11-17 15:04:25,254585,2,iPhone 6,52.64935,5.0854083333333,Yes,"98, Pergola, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LR, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1,2021-11-17 15:05:25,257102,2,iPhone 6,52.649669444444,5.0863972222222,Yes,"44, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-11-17 15:06:03,252700,2,iPhone 6,52.649763888889,5.0862888888889,Yes,"43, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LB, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+3,2021-11-17 15:06:45,253398,2,iPhone 6,52.650108333333,5.0863888888889,Yes,"36, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-11-17 15:07:27,253899,2,iPhone 6,52.651005555556,5.0860027777778,Yes,"Marquettegracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LS, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+5,2021-11-17 15:07:28,253135,2,iPhone 6,52.650847222222,5.0861972222222,Yes,"Geulweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LS, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-11-17 15:07:29,253399,2,iPhone 6,52.650608333333,5.0864527777778,Yes,"10, Prieel, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LS, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-11-17 15:08:07,253900,2,iPhone 6,52.6506,5.0866833333333,Yes,"43, Patio, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LT, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0

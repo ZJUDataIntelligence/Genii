@@ -1,0 +1,12 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-08-20 16:32:27,226384,2,iPhone 6,52.652594444444,5.0844527777778,Yes,"6, Mina Krusemanstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NL, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-08-20 16:33:03,255202,2,iPhone 6,52.652511111111,5.0845277777778,Yes,"Vomar, 39, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2,2021-08-20 16:33:04,222399,2,iPhone 6,52.652519444444,5.084525,Yes,"Vomar, 39, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+3,2021-08-20 16:33:32,258357,2,iPhone 6,52.652580555556,5.0845527777778,Yes,"Vomar, 39, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NB, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,2021-08-20 16:34:58,258359,2,iPhone 6,52.651608333333,5.0848472222222,Yes,"Mina Krusemanstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NS, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,2021-08-20 16:34:59,258360,2,iPhone 6,52.651566666667,5.0849472222222,Yes,"Mina Krusemanstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NZ, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,2021-08-20 16:35:00,225324,2,iPhone 6,52.651566666667,5.0849472222222,Yes,"Mina Krusemanstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NZ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+7,2021-08-20 16:35:02,222400,2,iPhone 6,52.651566666667,5.085025,Yes,"Mina Krusemanstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NZ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+8,2021-08-20 16:35:47,258361,2,iPhone 6,52.651580555556,5.085025,Yes,"Mina Krusemanstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NZ, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,2021-08-20 16:35:49,222401,2,iPhone 6,52.651613888889,5.0851861111111,Yes,"Mina Krusemanstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NZ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+10,2021-08-20 16:36:54,258362,2,iPhone 6,52.651219444444,5.0856916666667,Yes,"Mina Krusemanstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NZ, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

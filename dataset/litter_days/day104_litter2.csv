@@ -1,0 +1,5 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-07-02 15:52:07,221653,2,iPhone 6,52.651675,5.0844055555556,Yes,"15, Aletta Jacobsstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NS, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-07-02 15:53:23,258592,2,iPhone 6,52.6516,5.0838833333333,Yes,"88, Aletta Jacobsstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NR, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,2021-07-02 15:54:52,255107,2,iPhone 6,52.650891666667,5.0815416666667,Yes,"2, Stijl, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628HA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+3,2021-07-02 15:55:34,225443,2,iPhone 6,52.650761111111,5.0816166666667,Yes,"5, Stijl, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628HA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

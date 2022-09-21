@@ -1,0 +1,11 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-09-02 08:20:01,223542,2,iPhone 6,52.656472222222,5.0634277777778,Yes,"802, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625BV, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-09-02 08:20:41,254349,2,iPhone 6,52.656830555556,5.06255,Yes,"Zeeman Projekten, 5, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+2,2021-09-02 08:20:43,223543,2,iPhone 6,52.656722222222,5.0629083333333,Yes,"29, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625BW, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+3,2021-09-02 08:20:44,222566,2,iPhone 6,52.656722222222,5.0629083333333,Yes,"29, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625BW, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-09-02 08:23:20,228083,2,iPhone 6,52.656533333333,5.0592138888889,Yes,"Blokmergouw, Zwaagmergouw, Hoorn, North Holland, Netherlands, 1625CC, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+5,2021-09-02 08:24:15,225865,2,iPhone 6,52.657161111111,5.05785,Yes,"Blokmergouw, Zwaagmergouw, Hoorn, North Holland, Netherlands, 1625CC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+6,2021-09-02 08:24:57,222567,2,iPhone 6,52.657288888889,5.0572555555556,Yes,"Zwaagmergouw, Hoorn, North Holland, Netherlands, 1625HJ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-09-02 08:25:40,258431,2,iPhone 6,52.657708333333,5.0567222222222,Yes,"Beurtschip, Zwaagmergouw, Hoorn, North Holland, Netherlands, 1625CD, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,2021-09-02 09:15:54,228085,2,iPhone 6,52.657458333333,5.0564694444444,Yes,"De Huesmolen, Hoorn, North Holland, Netherlands, 1625HH, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+9,2021-09-02 09:17:30,228086,2,iPhone 6,52.65575,5.0591138888889,Yes,"88, Speelwagen, Hoorn, North Holland, Netherlands, 1625HK, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0

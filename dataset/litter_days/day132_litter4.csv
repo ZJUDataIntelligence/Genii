@@ -1,0 +1,8 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-08-23 12:21:19,222447,2,iPhone 6,52.653661111111,5.071925,Yes,"Provincialeweg, Hoorn, North Holland, Netherlands, 1624HN, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-08-23 13:33:26,258373,2,iPhone 6,52.645947222222,5.0698666666667,Yes,"32, Emmalaan, Hoorn, North Holland, Netherlands, 1623MC, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,2021-08-23 13:33:30,222449,2,iPhone 6,52.646013888889,5.0698805555556,Yes,"32, Emmalaan, Hoorn, North Holland, Netherlands, 1623MC, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+3,2021-08-23 13:34:07,227733,2,iPhone 6,52.645966666667,5.0698055555556,Yes,"32, Emmalaan, Hoorn, North Holland, Netherlands, 1623MC, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+4,2021-08-23 13:37:10,278568,2,iPhone 6,52.649044444444,5.0761111111111,Yes,"Sportcentrum Hoorn, 14a, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+5,2021-08-23 13:37:12,278569,2,iPhone 6,52.649044444444,5.0761111111111,Yes,"Sportcentrum Hoorn, 14a, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+6,2021-08-23 13:37:45,227155,2,iPhone 6,52.648347222222,5.0767861111111,Yes,"Sauna Suomi, 6, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

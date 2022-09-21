@@ -1,0 +1,12 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-06-28 13:09:42,255491,2,iPhone 6,52.651786111111,5.0761666666667,Yes,"Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CK, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1,2021-06-28 13:27:33,255289,2,iPhone 6,52.652366666667,5.0768083333333,Yes,"79, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CK, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-06-28 13:27:35,255363,2,iPhone 6,52.652366666667,5.0768083333333,Yes,"79, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CK, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+3,2021-06-28 13:28:42,256180,2,iPhone 6,52.652233333333,5.0764916666667,Yes,"Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CK, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+4,2021-06-28 13:28:43,255364,2,iPhone 6,52.65245,5.0768277777778,Yes,"24, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+5,2021-06-28 13:29:23,179388,2,iPhone 6,52.652155555556,5.0765833333333,Yes,"78, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CK, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-06-28 13:29:24,177592,2,iPhone 6,52.652236111111,5.0766694444444,Yes,"79, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CK, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-06-28 13:30:19,178767,2,iPhone 6,52.651425,5.0769333333333,Yes,"67, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CK, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+8,2021-06-28 13:30:50,227963,2,iPhone 6,52.651566666667,5.0767916666667,Yes,"70, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CK, Netherlands",3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0
+9,2021-06-28 13:30:51,177594,2,iPhone 6,52.651672222222,5.076925,Yes,"70, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CK, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+10,2021-06-28 13:31:42,257125,2,iPhone 6,52.651294444444,5.0771,Yes,"86, Rietzanger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CP, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

@@ -1,0 +1,12 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-10-28 09:46:15,258126,2,iPhone 6,52.652447222222,5.0800055555556,Yes,"Zaanweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,2021-10-28 16:24:06,252837,2,iPhone 6,52.652808333333,5.0796888888889,Yes,"Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-10-28 16:24:07,253821,2,iPhone 6,52.652869444444,5.0797472222222,Yes,"Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,2021-10-28 16:24:09,255660,2,iPhone 6,52.652869444444,5.0797472222222,Yes,"Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+4,2021-10-28 16:24:10,258129,2,iPhone 6,52.652869444444,5.0797472222222,Yes,"Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,2021-10-28 16:24:12,253255,2,iPhone 6,52.652869444444,5.0797472222222,Yes,"Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-10-28 16:24:13,255801,2,iPhone 6,52.652869444444,5.0797472222222,Yes,"Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,2021-10-28 16:25:06,258130,2,iPhone 6,52.652958333333,5.0800444444444,Yes,"10, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AJ, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,2021-10-28 16:25:08,253857,2,iPhone 6,52.652919444444,5.0799833333333,Yes,"Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+9,2021-10-28 16:34:41,259454,2,iPhone 6,52.654791666667,5.0803888888889,No,"132, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+10,2021-10-28 16:34:44,255669,2,iPhone 6,52.654761111111,5.0804583333333,Yes,"132, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BG, Netherlands",2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0

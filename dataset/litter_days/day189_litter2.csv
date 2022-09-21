@@ -1,0 +1,11 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-11-24 15:22:43,253931,2,iPhone 6,52.653069444444,5.0855972222222,Yes,"Kersenboogerd Station, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+1,2021-11-24 15:23:55,252787,2,iPhone 6,52.652622222222,5.0855277777778,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NW, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-11-24 15:23:56,252914,2,iPhone 6,52.652622222222,5.0855277777778,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NW, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+3,2021-11-24 15:36:20,253932,2,iPhone 6,52.652683333333,5.0848583333333,Yes,"93, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NE, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+4,2021-11-24 15:36:21,253219,2,iPhone 6,52.652716666667,5.0849555555556,Yes,"Water, aarde, lucht, Betje Wolffplein, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,2021-11-24 15:53:18,253933,2,iPhone 6,52.652927777778,5.0849388888889,Yes,"Asiania, 38, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+6,2021-11-24 15:54:21,278558,2,iPhone 6,52.652608333333,5.0853972222222,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NW, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+7,2021-11-24 15:54:24,253220,2,iPhone 6,52.652644444444,5.0854,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NW, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+8,2021-11-24 15:55:11,253516,2,iPhone 6,52.653191666667,5.084575,Yes,"De Schakel, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+9,2021-11-24 15:56:21,258074,2,iPhone 6,52.653897222222,5.0843916666667,Yes,"24, Kasteellaan, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KN, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

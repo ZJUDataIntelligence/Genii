@@ -1,0 +1,9 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-10-13 09:32:57,256103,2,iPhone 6,52.654647222222,5.0821694444444,No,"900, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BB, Netherlands",2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0
+1,2021-10-13 10:49:20,253730,2,iPhone 6,52.653038888889,5.0826722222222,Yes,"7, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-10-13 11:37:00,258271,2,iPhone 6,52.654247222222,5.0830027777778,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,2021-10-13 11:38:02,222070,2,iPhone 6,52.654233333333,5.0830388888889,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-10-13 11:38:12,254542,2,iPhone 6,52.653991666667,5.083225,Yes,"14, Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+5,2021-10-13 11:38:36,254543,2,iPhone 6,52.653991666667,5.083225,Yes,"14, Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+6,2021-10-13 13:34:20,258270,2,iPhone 6,52.652175,5.0850833333333,Yes,"Lin Wah, 113, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NG, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,2021-10-13 14:40:53,258274,2,iPhone 6,52.653702777778,5.085175,Yes,"44, Bolwerk, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KZ, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

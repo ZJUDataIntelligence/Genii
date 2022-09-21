@@ -1,0 +1,6 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-01-11 11:37:18,254524,2,iPhone 6,52.654036111111,5.0686361111111,Yes,"Provincialeweg, Hoorn, North Holland, Netherlands, 1624HN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1,2021-01-11 11:39:48,131258,2,iPhone 6,52.65525,5.0674861111111,Yes,"Groepspraktijk Risdaele, 12, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, The Netherlands",2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+2,2021-01-11 11:40:36,179512,2,iPhone 6,52.655052777778,5.0659583333333,Yes,"Groepspraktijk Podotherapie Hoorn, 42, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, The Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,2021-01-11 11:41:50,129716,2,iPhone 6,52.655044444444,5.0633666666667,Yes,"Stadhuis Hoorn, 1, Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, The Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,2021-01-11 11:42:30,129745,2,iPhone 6,52.655697222222,5.0631805555556,Yes,"Nieuwe Steen, Hoorn, North Holland, Netherlands, 1625HV, The Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0

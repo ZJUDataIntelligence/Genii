@@ -1,0 +1,3 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-06-16 09:35:14,176511,2,iPhone 6,52.651597222222,5.0863361111111,Yes,"Deen Supermarkt, 29, Aagje Dekenplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NX, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1,2021-06-16 09:35:15,176512,2,iPhone 6,52.651613888889,5.0862944444444,Yes,"Deen Supermarkt, 29, Aagje Dekenplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NX, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,4 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-09-30 08:44:14,255689,2,iPhone 6,52.647597222222,5.0846805555556,Yes,"Amstelweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LM, Netherlands",2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0
+1,2021-09-30 08:45:09,227791,2,iPhone 6,52.647819444444,5.0858361111111,Yes,"136, Pergola, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LX, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,2021-09-30 08:45:36,256101,2,iPhone 6,52.647894444444,5.0859583333333,No,"138, Pergola, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LX, Netherlands",2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0

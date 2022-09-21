@@ -1,0 +1,15 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-01-09 13:31:49,226367,2,iPhone 6,52.646011111111,5.0777527777778,Yes,"4A, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-01-09 13:31:51,130962,2,iPhone 6,52.646011111111,5.0777527777778,Yes,"4A, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-01-09 13:31:54,254519,2,iPhone 6,52.646011111111,5.0777527777778,Yes,"4A, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+3,2021-01-09 13:32:37,256271,2,iPhone 6,52.645936111111,5.0774527777778,No,"4A, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+4,2021-01-09 13:33:07,177096,2,iPhone 6,52.645502777778,5.07795,Yes,"4A, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,2021-01-09 13:33:49,177097,2,iPhone 6,52.644955555556,5.0787055555556,Yes,"Holenweg, Hoorn, North Holland, Netherlands, 1623, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-01-09 13:33:55,129742,2,iPhone 6,52.645808333333,5.0777527777778,Yes,"4A, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, The Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,2021-01-09 13:34:57,259413,2,iPhone 6,52.644825,5.0786388888889,Yes,"272, Venenlaan, Hoorn, North Holland, Netherlands, 1623RP, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,2021-01-09 13:34:59,130963,2,iPhone 6,52.645988888889,5.0778527777778,Yes,"4A, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+9,2021-01-09 13:35:00,259414,2,iPhone 6,52.645988888889,5.0778527777778,Yes,"4A, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,2021-01-09 13:35:02,259415,2,iPhone 6,52.645988888889,5.0778527777778,Yes,"4A, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,2021-01-09 13:35:38,259416,2,iPhone 6,52.645980555556,5.0779555555556,Yes,"4A, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,2021-01-09 13:35:40,177098,2,iPhone 6,52.645927777778,5.0780083333333,Yes,"4A, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+13,2021-01-09 13:37:33,254520,2,iPhone 6,52.645977777778,5.077875,Yes,"4A, Holenweg, Hoorn, North Holland, Netherlands, 1624PB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

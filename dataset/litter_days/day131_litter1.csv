@@ -1,0 +1,14 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-08-21 18:47:44,254930,2,iPhone 6,52.650019444444,5.0668833333333,Yes,"de Zaagtand, Liornestraat, Hoorn, North Holland, Netherlands, 1624HM, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,2021-08-21 18:49:38,226810,2,iPhone 6,52.648036111111,5.0612222222222,Yes,"65A, Johannes Poststraat, Hoorn, North Holland, Netherlands, 1624CB, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+2,2021-08-21 18:49:40,227923,2,iPhone 6,52.648036111111,5.0612222222222,Yes,"65A, Johannes Poststraat, Hoorn, North Holland, Netherlands, 1624CB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+3,2021-08-21 18:50:09,256640,2,iPhone 6,52.647891666667,5.0611694444444,Yes,"Uitvaartcentrum Johannes Poststraat, 26, Johannes Poststraat, Hoorn, North Holland, Netherlands, 1624CC, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,2021-08-21 19:10:33,225797,2,iPhone 6,52.648011111111,5.0568138888889,Yes,"85, Koepoortsweg, Hoorn, North Holland, Netherlands, 1624AC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+5,2021-08-21 19:11:57,225330,2,iPhone 6,52.649894444444,5.057975,Yes,"Vredehofstraat, Hoorn, North Holland, Netherlands, 1624XH, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+6,2021-08-21 19:11:58,225331,2,iPhone 6,52.650019444444,5.0577861111111,Yes,"Vredehoftunnel, Hoorn, North Holland, Netherlands, 1624XB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+7,2021-08-21 19:12:00,227025,2,iPhone 6,52.650019444444,5.0577861111111,Yes,"Vredehoftunnel, Hoorn, North Holland, Netherlands, 1624XB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+8,2021-08-21 19:13:09,256791,2,iPhone 6,52.650244444444,5.0574611111111,Yes,"Vredehoftunnel, Hoorn, North Holland, Netherlands, 1624XB, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,2021-08-21 19:13:42,228199,2,iPhone 6,52.650027777778,5.0575166666667,Yes,"1, Vredehofstraat, Hoorn, North Holland, Netherlands, 1624XG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+10,2021-08-21 19:14:31,226904,2,iPhone 6,52.650005555556,5.0577583333333,Yes,"Vredehoftunnel, Hoorn, North Holland, Netherlands, 1624XB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+11,2021-08-21 19:15:11,223439,2,iPhone 6,52.650127777778,5.0582666666667,Yes,"Sportcentrum Vredehof, 5, Vredehofstraat, Hoorn, North Holland, Netherlands, 1624XG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+12,2021-08-21 19:16:29,258372,2,iPhone 6,52.650427777778,5.0596472222222,Yes,"9, Vredehofstraat, Hoorn, North Holland, Netherlands, 1624XG, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

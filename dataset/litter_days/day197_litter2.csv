@@ -1,0 +1,24 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-12-10 09:24:07,252945,2,iPhone 6,52.653713888889,5.0822,Yes,"30, Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-12-10 09:25:18,252656,2,iPhone 6,52.654136111111,5.0828972222222,Yes,"99, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-12-10 09:25:21,268133,2,iPhone 6,52.65405,5.0826972222222,Yes,"99, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,2021-12-10 09:25:23,268103,2,iPhone 6,52.65405,5.0827833333333,Yes,"99, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,2021-12-10 09:26:42,268520,2,iPhone 6,52.654366666667,5.0831277777778,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,2021-12-10 09:27:53,252815,2,iPhone 6,52.655002777778,5.0833166666667,Yes,"150, Nachtegaal, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+6,2021-12-10 09:28:28,253598,2,iPhone 6,52.654819444444,5.0831916666667,Yes,"Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KK, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-12-10 09:29:07,253984,2,iPhone 6,52.654941666667,5.0831972222222,Yes,"Westfriese Vrije School Parcival, 146, Nachtegaal, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+8,2021-12-10 09:29:36,268521,2,iPhone 6,52.655011111111,5.0833944444444,Yes,"Gevelobjecten, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KL, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+9,2021-12-10 09:29:38,268522,2,iPhone 6,52.6549,5.0833833333333,Yes,"Gevelobjecten, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KL, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+10,2021-12-10 09:30:11,268251,2,iPhone 6,52.654975,5.0832972222222,Yes,"150, Nachtegaal, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+11,2021-12-10 09:30:12,268401,2,iPhone 6,52.655094444444,5.0833694444444,Yes,"Gevelobjecten, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KL, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+12,2021-12-10 09:30:13,253599,2,iPhone 6,52.655094444444,5.0833694444444,Yes,"Gevelobjecten, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KL, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+13,2021-12-10 09:31:15,253760,2,iPhone 6,52.654963888889,5.0834138888889,Yes,"Gevelobjecten, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KL, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+14,2021-12-10 09:31:17,255269,2,iPhone 6,52.655105555556,5.0837444444444,Yes,"152, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+15,2021-12-10 09:31:54,255258,2,iPhone 6,52.655005555556,5.0836888888889,Yes,"Gevelobjecten, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KL, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,2021-12-10 09:31:55,268523,2,iPhone 6,52.655144444444,5.0839916666667,Yes,"144, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+17,2021-12-10 13:02:58,268548,2,iPhone 6,52.653655555556,5.0842805555556,Yes,"23, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+18,2021-12-10 13:03:01,253986,2,iPhone 6,52.653594444444,5.0838027777778,Yes,"19, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+19,2021-12-10 13:03:02,268549,2,iPhone 6,52.653594444444,5.0838027777778,Yes,"19, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+20,2021-12-10 13:03:49,253987,2,iPhone 6,52.653502777778,5.0845333333333,Yes,"3, Borstwering, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KR, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+21,2021-12-10 13:05:31,252423,2,iPhone 6,52.652922222222,5.0848166666667,Yes,"9, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+22,2021-12-10 13:24:00,268119,2,iPhone 6,52.652983333333,5.0841055555556,Yes,"20, Palissade, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KA, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0

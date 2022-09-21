@@ -1,0 +1,5 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-02-24 14:20:17,177714,2,iPhone 6,52.659633333333,5.086125,Yes,"3, Koolduif, Blokker, Hoorn, North Holland, Netherlands, 1695LD, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-02-24 14:21:43,225430,2,iPhone 6,52.659561111111,5.0841972222222,Yes,"141, Westerblokker, Blokker, Hoorn, North Holland, Netherlands, 1695AD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-02-24 14:22:10,131503,2,iPhone 6,52.6595,5.084425,Yes,"96C, Westerblokker, Blokker, Hoorn, North Holland, Netherlands, 1695AK, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+3,2021-02-24 14:22:36,131504,2,iPhone 6,52.659605555556,5.0843333333333,Yes,"141, Westerblokker, Blokker, Hoorn, North Holland, Netherlands, 1695AD, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0

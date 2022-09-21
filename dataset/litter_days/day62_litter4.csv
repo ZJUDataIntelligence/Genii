@@ -1,0 +1,11 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-05-06 09:16:24,259806,2,iPhone 6,52.651577777778,5.0782555555556,No,"56, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CJ, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,2021-05-06 12:03:43,176536,2,iPhone 6,52.653530555556,5.0778388888889,Yes,"2, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CT, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2,2021-05-06 12:04:08,178579,2,iPhone 6,52.653252777778,5.0782333333333,Yes,"Zaanweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, The Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,2021-05-06 12:05:40,163410,2,iPhone 6,52.653411111111,5.0791694444444,Yes,"1, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AJ, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+4,2021-05-06 12:05:48,163249,2,iPhone 6,52.653202777778,5.0792472222222,Yes,"2, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AJ, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+5,2021-05-06 12:05:50,163248,2,iPhone 6,52.653166666667,5.0792777777778,Yes,"2, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AJ, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+6,2021-05-06 12:07:08,162504,2,iPhone 6,52.652588888889,5.0796861111111,Yes,"Zaanweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+7,2021-05-06 12:07:39,163898,2,iPhone 6,52.652511111111,5.0797027777778,Yes,"Zaanweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+8,2021-05-06 12:08:21,172876,2,iPhone 6,52.652436111111,5.0800722222222,Yes,"Zaanweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, The Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,2021-05-06 12:08:23,255408,2,iPhone 6,52.652436111111,5.0799972222222,Yes,"Zaanweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

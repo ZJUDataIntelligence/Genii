@@ -1,0 +1,25 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-06-14 08:49:31,172766,2,iPhone 6,52.654458333333,5.0807972222222,Yes,"32, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-06-14 08:50:07,172352,2,iPhone 6,52.654541666667,5.0812833333333,Yes,"145, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+2,2021-06-14 08:50:42,257514,2,iPhone 6,52.654655555556,5.0813166666667,Yes,"38, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+3,2021-06-14 08:51:11,172767,2,iPhone 6,52.654647222222,5.0815388888889,Yes,"141, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-06-14 08:53:17,252996,2,iPhone 6,52.654461111111,5.08235,Yes,"120, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+5,2021-06-14 08:53:20,255378,2,iPhone 6,52.654461111111,5.08235,Yes,"120, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+6,2021-06-14 08:54:56,172305,2,iPhone 6,52.654322222222,5.0832027777778,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, The Netherlands",2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+7,2021-06-14 08:55:39,227138,2,iPhone 6,52.654413888889,5.0834444444444,Yes,"55, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KJ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+8,2021-06-14 08:57:07,258680,2,iPhone 6,52.654308333333,5.0831777777778,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,2021-06-14 08:57:10,227139,2,iPhone 6,52.654075,5.0832583333333,Yes,"8, Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+10,2021-06-14 08:57:57,172502,2,iPhone 6,52.654294444444,5.0830888888889,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+11,2021-06-14 08:58:18,257515,2,iPhone 6,52.654086111111,5.0828805555556,Yes,"99, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+12,2021-06-14 08:59:00,255861,2,iPhone 6,52.654444444444,5.0829166666667,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+13,2021-06-14 08:59:40,172768,2,iPhone 6,52.653994444444,5.082925,Yes,"18, Nieuwendoorngracht, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KC, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+14,2021-06-14 09:01:14,172769,2,iPhone 6,52.653691666667,5.0832777777778,Yes,"26, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+15,2021-06-14 09:01:15,172503,2,iPhone 6,52.653686111111,5.0835055555556,Yes,"24, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+16,2021-06-14 09:01:16,177199,2,iPhone 6,52.653686111111,5.0835055555556,Yes,"24, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+17,2021-06-14 09:17:10,172022,2,iPhone 6,52.654402777778,5.0831472222222,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+18,2021-06-14 09:17:18,172770,2,iPhone 6,52.654247222222,5.0830305555556,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+19,2021-06-14 09:17:40,227607,2,iPhone 6,52.654397222222,5.0828888888889,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,2021-06-14 09:17:41,172023,2,iPhone 6,52.654177777778,5.0828916666667,Yes,"99, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+21,2021-06-14 09:18:26,227140,2,iPhone 6,52.654522222222,5.0827555555556,Yes,"Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+22,2021-06-14 09:18:28,255496,2,iPhone 6,52.654419444444,5.0825194444444,Yes,"114, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+23,2021-06-14 09:20:42,172353,2,iPhone 6,52.652702777778,5.0852416666667,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0

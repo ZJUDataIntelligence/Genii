@@ -1,0 +1,3 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-02-25 10:50:23,130370,2,iPhone 6,52.654544444444,5.0873055555556,No,"20, Bolwerk, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KW, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-02-25 10:55:31,178638,2,iPhone 6,52.654227777778,5.087075,Yes,"8, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628PA, The Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

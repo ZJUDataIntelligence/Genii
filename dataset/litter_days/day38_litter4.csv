@@ -1,0 +1,5 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-03-30 12:35:58,177202,2,iPhone 6,52.653133333333,5.0759111111111,Yes,"32, Kluut, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CB, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-03-30 12:36:38,255429,2,iPhone 6,52.653386111111,5.0751777777778,Yes,"25, Kluut, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2,2021-03-30 12:37:42,177997,2,iPhone 6,52.653672222222,5.07465,Yes,"Kluut, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CZ, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+3,2021-03-30 12:38:15,228361,2,iPhone 6,52.653555555556,5.0751555555556,Yes,"86, Kluut, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CD, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

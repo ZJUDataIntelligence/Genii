@@ -1,0 +1,33 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-11-20 09:43:40,253151,2,iPhone 6,52.653511111111,5.0845694444444,Yes,"3, Borstwering, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KR, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-11-20 09:44:12,253415,2,iPhone 6,52.653438888889,5.0848972222222,Yes,"Hero Koffiecorner, Borstwering, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KR, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-11-20 09:44:45,259585,2,iPhone 6,52.653205555556,5.0846833333333,No,"De Schakel, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+3,2021-11-20 09:44:47,255159,2,iPhone 6,52.653205555556,5.0846833333333,Yes,"De Schakel, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+4,2021-11-20 09:45:19,258032,2,iPhone 6,52.653063888889,5.084475,Yes,"De Schakel, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,2021-11-20 10:04:08,253152,2,iPhone 6,52.652722222222,5.0852222222222,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-11-20 10:05:07,257071,2,iPhone 6,52.652758333333,5.0853555555556,Yes,"Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+7,2021-11-20 10:05:12,256124,2,iPhone 6,52.652758333333,5.0849222222222,Yes,"93, Betje Wolffplein, Winkelcentrum De Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NE, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+8,2021-11-20 12:07:59,253172,2,iPhone 6,52.654041666667,5.0846888888889,Yes,"22, Kasteellaan, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KN, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+9,2021-11-20 12:09:13,258044,2,iPhone 6,52.654172222222,5.0851861111111,Yes,"27, Kasteellaan, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KP, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,2021-11-20 12:09:14,253173,2,iPhone 6,52.654036111111,5.0847472222222,Yes,"22, Kasteellaan, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KN, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+11,2021-11-20 12:09:52,253174,2,iPhone 6,52.653972222222,5.0847583333333,Yes,"26, Kasteellaan, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KN, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+12,2021-11-20 12:09:58,253908,2,iPhone 6,52.653927777778,5.0847555555556,Yes,"26, Kasteellaan, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KN, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+13,2021-11-20 12:11:25,253909,2,iPhone 6,52.653744444444,5.0854083333333,Yes,"2, Bolwerk, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KW, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+14,2021-11-20 12:11:26,252363,2,iPhone 6,52.653744444444,5.0854083333333,Yes,"2, Bolwerk, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KW, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,2021-11-20 12:11:28,253175,2,iPhone 6,52.653744444444,5.0854083333333,Yes,"2, Bolwerk, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KW, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+16,2021-11-20 12:11:29,253433,2,iPhone 6,52.653744444444,5.0854083333333,Yes,"2, Bolwerk, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KW, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+17,2021-11-20 12:11:57,253910,2,iPhone 6,52.653838888889,5.0852972222222,Yes,"1, Bolwerk, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KW, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+18,2021-11-20 12:12:38,254189,2,iPhone 6,52.653780555556,5.0855694444444,Yes,"4, Bolwerk, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KW, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+19,2021-11-20 12:12:40,255267,2,iPhone 6,52.653780555556,5.0855694444444,Yes,"4, Bolwerk, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KW, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+20,2021-11-20 12:12:42,253911,2,iPhone 6,52.653780555556,5.0855694444444,Yes,"4, Bolwerk, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KW, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+21,2021-11-20 12:13:09,253756,2,iPhone 6,52.653725,5.0857305555556,Yes,"44, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628PC, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+22,2021-11-20 12:13:45,255160,2,iPhone 6,52.653886111111,5.0853444444444,Yes,"2, Bolwerk, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KW, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+23,2021-11-20 12:13:46,253912,2,iPhone 6,52.653886111111,5.0853444444444,Yes,"2, Bolwerk, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KW, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+24,2021-11-20 12:14:40,253176,2,iPhone 6,52.653686111111,5.0854972222222,Yes,"2, Bolwerk, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KW, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+25,2021-11-20 12:15:53,257028,2,iPhone 6,52.654275,5.0869694444444,Yes,"23, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628PB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+26,2021-11-20 12:16:18,256087,2,iPhone 6,52.654297222222,5.0873055555556,No,"7, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628PA, Netherlands",2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+27,2021-11-20 12:20:02,253177,2,iPhone 6,52.654319444444,5.0870888888889,Yes,"8, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628PA, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+28,2021-11-20 12:20:28,278336,2,iPhone 6,52.6543,5.0875777777778,Yes,"5, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628PA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+29,2021-11-20 12:21:14,253666,2,iPhone 6,52.654458333333,5.0870388888889,Yes,"20, Bolwerk, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KW, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+30,2021-11-20 12:21:15,259801,2,iPhone 6,52.654441666667,5.0871277777778,No,"8, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628PA, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+31,2021-11-20 12:25:32,254570,2,iPhone 6,52.653175,5.0854638888889,Yes,"Bibliotheek Kersenboogerd, Rijnweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628NA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

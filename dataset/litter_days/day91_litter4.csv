@@ -1,0 +1,10 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-06-16 09:09:07,255382,2,iPhone 6,52.653208333333,5.0807055555556,Yes,"46, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1,2021-06-16 09:09:55,172797,2,iPhone 6,52.653033333333,5.081025,Yes,"17, Ekster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AA, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-06-16 09:09:56,172366,2,iPhone 6,52.653244444444,5.0807277777778,Yes,"46, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+3,2021-06-16 09:09:58,258692,2,iPhone 6,52.653244444444,5.0807277777778,Yes,"46, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,2021-06-16 09:10:36,172798,2,iPhone 6,52.653216666667,5.0807888888889,Yes,"46, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,2021-06-16 09:11:02,172799,2,iPhone 6,52.653205555556,5.0807777777778,Yes,"46, Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AT, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-06-16 09:12:03,257216,2,iPhone 6,52.654308333333,5.0810472222222,Yes,"Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AR, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+7,2021-06-16 10:52:23,258693,2,iPhone 6,52.652461111111,5.0804194444444,Yes,"73, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,2021-06-16 10:52:58,254433,2,iPhone 6,52.652552777778,5.0804944444444,Yes,"73, Lijster, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

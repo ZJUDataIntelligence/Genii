@@ -1,0 +1,6 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-04-26 10:59:58,225867,2,iPhone 6,52.6525,5.0796666666667,Yes,"Zaanweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-04-26 11:00:02,256621,2,iPhone 6,52.652588888889,5.0795694444444,Yes,"Zaanweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,2021-04-26 12:02:26,257118,2,iPhone 6,52.658041666667,5.0800527777778,Yes,"Kloosterhout, Blokker, Hoorn, North Holland, Netherlands, 1628BJ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+3,2021-04-26 12:05:52,178263,2,iPhone 6,52.655002777778,5.0771666666667,Yes,"Vogelenzang, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AW, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-04-26 12:06:01,254410,2,iPhone 6,52.654980555556,5.076775,Yes,"Vogelenzang, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AW, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

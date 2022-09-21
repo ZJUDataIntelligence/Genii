@@ -1,0 +1,27 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-06-30 16:51:41,222730,2,iPhone 6,52.653661111111,5.0840138888889,Yes,"15, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-06-30 16:51:42,222731,2,iPhone 6,52.653661111111,5.0840138888889,Yes,"15, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-06-30 16:51:46,226929,2,iPhone 6,52.653647222222,5.0840444444444,Yes,"16, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+3,2021-06-30 16:53:27,221557,2,iPhone 6,52.653727777778,5.0839277777778,Yes,"12, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+4,2021-06-30 16:53:28,221558,2,iPhone 6,52.653727777778,5.0839277777778,Yes,"12, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,2021-06-30 16:53:29,222732,2,iPhone 6,52.653727777778,5.0839277777778,Yes,"12, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-06-30 16:54:23,227965,2,iPhone 6,52.653811111111,5.0840555555556,Yes,"28, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KH, Netherlands",3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0
+7,2021-06-30 16:54:26,227048,2,iPhone 6,52.653775,5.0839916666667,Yes,"12, Rondeelstraat, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KG, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+8,2021-06-30 16:54:31,225412,2,iPhone 6,52.653705555556,5.0838777777778,Yes,"19, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+9,2021-06-30 16:54:40,221559,2,iPhone 6,52.653672222222,5.0837361111111,Yes,"20, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+10,2021-06-30 16:54:44,221560,2,iPhone 6,52.653677777778,5.083725,Yes,"20, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+11,2021-06-30 16:54:46,221561,2,iPhone 6,52.653677777778,5.083725,Yes,"20, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+12,2021-06-30 16:55:30,222734,2,iPhone 6,52.653502777778,5.0834611111111,Yes,"20, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+13,2021-06-30 16:55:32,222735,2,iPhone 6,52.653502777778,5.0834611111111,Yes,"20, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+14,2021-06-30 16:56:22,227578,2,iPhone 6,52.653172222222,5.0828055555556,Yes,"7, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+15,2021-06-30 16:56:24,227579,2,iPhone 6,52.653461111111,5.0836583333333,Yes,"19, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+16,2021-06-30 16:56:27,221563,2,iPhone 6,52.653483333333,5.0836777777778,Yes,"19, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+17,2021-06-30 16:56:43,258203,2,iPhone 6,52.6535,5.0835944444444,Yes,"19, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,2021-06-30 16:56:55,254884,2,iPhone 6,52.653511111111,5.0834805555556,Yes,"20, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,2021-06-30 16:57:28,228052,2,iPhone 6,52.653286111111,5.0832638888889,Yes,"8, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,2021-06-30 16:58:10,227322,2,iPhone 6,52.653136111111,5.0827666666667,Yes,"7, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+21,2021-06-30 16:59:05,255574,2,iPhone 6,52.6534,5.0826833333333,Yes,"7, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+22,2021-06-30 16:59:06,255575,2,iPhone 6,52.653338888889,5.0826138888889,Yes,"7, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+23,2021-06-30 16:59:09,255576,2,iPhone 6,52.653338888889,5.0826138888889,Yes,"7, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+24,2021-06-30 16:59:12,255577,2,iPhone 6,52.653347222222,5.082625,Yes,"7, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+25,2021-06-30 17:00:43,255323,2,iPhone 6,52.653377777778,5.0826833333333,Yes,"7, Waterpoort, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628KB, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

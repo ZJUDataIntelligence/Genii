@@ -1,0 +1,3 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-05-16 11:07:18,257065,2,iPhone 6,52.665222222222,5.0471916666667,Yes,"34, Sleutelbloem, Zwaag, Hoorn, North Holland, Netherlands, 1689PZ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1,2021-05-16 11:08:07,162756,2,iPhone 6,52.664841666667,5.0468416666667,Yes,"Wogmergouw, Zwaag, Hoorn, North Holland, Netherlands, 1689SE, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

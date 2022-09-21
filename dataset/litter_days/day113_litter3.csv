@@ -1,0 +1,15 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-07-15 10:45:46,222125,2,iPhone 6,52.655541666667,5.0833277777778,Yes,"Wereldwijzer, 144, Nachtegaal, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-07-15 11:16:58,225233,2,iPhone 6,52.655413888889,5.084875,Yes,"18, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-07-15 11:17:00,225607,2,iPhone 6,52.655522222222,5.0848333333333,Yes,"19, Nachtegaal, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+3,2021-07-15 11:17:39,254617,2,iPhone 6,52.655583333333,5.0849944444444,Yes,"18, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+4,2021-07-15 11:18:18,226971,2,iPhone 6,52.655594444444,5.0846694444444,Yes,"Wereldwijzer, 144, Nachtegaal, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+5,2021-07-15 11:18:53,222131,2,iPhone 6,52.655563888889,5.0847027777778,Yes,"Wereldwijzer, 144, Nachtegaal, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+6,2021-07-15 11:18:55,222132,2,iPhone 6,52.655613888889,5.0845472222222,Yes,"Wereldwijzer, 144, Nachtegaal, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+7,2021-07-15 11:18:56,222133,2,iPhone 6,52.655613888889,5.0845472222222,Yes,"Wereldwijzer, 144, Nachtegaal, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+8,2021-07-15 11:19:35,227827,2,iPhone 6,52.655588888889,5.0844972222222,Yes,"Wereldwijzer, 144, Nachtegaal, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,2021-07-15 11:19:36,223194,2,iPhone 6,52.655594444444,5.0845805555556,Yes,"Wereldwijzer, 144, Nachtegaal, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+10,2021-07-15 11:20:07,223195,2,iPhone 6,52.655497222222,5.0846361111111,Yes,"18, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DA, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+11,2021-07-15 11:20:52,225234,2,iPhone 6,52.655555555556,5.0846527777778,Yes,"Wereldwijzer, 144, Nachtegaal, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+12,2021-07-15 11:21:13,222134,2,iPhone 6,52.655380555556,5.0846472222222,Yes,"18, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DA, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+13,2021-07-15 11:22:05,227508,2,iPhone 6,52.655422222222,5.08425,Yes,"144, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628DJ, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

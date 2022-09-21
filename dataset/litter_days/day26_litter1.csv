@@ -1,0 +1,5 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-03-10 11:32:57,130931,2,iPhone 6,52.654197222222,5.0809555555556,Yes,"Koolmees, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AR, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-03-10 11:33:35,131133,2,iPhone 6,52.654263888889,5.080675,Yes,"4, Spaarneweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AR, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2,2021-03-10 11:35:52,131134,2,iPhone 6,52.654530555556,5.0805833333333,Yes,"24, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BA, The Netherlands",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+3,2021-03-10 11:35:54,252988,2,iPhone 6,52.654530555556,5.0805833333333,Yes,"24, Reiger, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BA, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0

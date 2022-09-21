@@ -1,0 +1,4 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-07-21 10:02:51,258292,2,iPhone 6,52.650636111111,5.0690916666667,Yes,"22, Wabenstraat, Hoorn, North Holland, Netherlands, 1624GM, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,2021-07-21 10:03:51,258293,2,iPhone 6,52.650188888889,5.0678416666667,Yes,"905, Van Goyenstraat, Hoorn, North Holland, Netherlands, 1624GE, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,2021-07-21 10:03:54,254908,2,iPhone 6,52.650188888889,5.0678416666667,Yes,"905, Van Goyenstraat, Hoorn, North Holland, Netherlands, 1624GE, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

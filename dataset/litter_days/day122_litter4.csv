@@ -1,0 +1,7 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-07-26 11:30:32,227116,2,iPhone 6,52.651036111111,5.0831083333333,Yes,"60, Messing, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628HH, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1,2021-07-26 11:30:33,222215,2,iPhone 6,52.650811111111,5.0832472222222,Yes,"54, Messing, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628HH, Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2,2021-07-26 11:31:55,227712,2,iPhone 6,52.649658333333,5.0835305555556,Yes,"36, Geulweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628HG, Netherlands",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+3,2021-07-26 11:32:51,227387,2,iPhone 6,52.649441666667,5.0835222222222,Yes,"20, Geulweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628LL, Netherlands",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+4,2021-07-26 11:33:50,258305,2,iPhone 6,52.650386111111,5.0822694444444,Yes,"6, Amstelweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628HE, Netherlands",1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,2021-07-26 11:35:00,227546,2,iPhone 6,52.651444444444,5.0810166666667,Yes,"Zaanweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AM, Netherlands",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0

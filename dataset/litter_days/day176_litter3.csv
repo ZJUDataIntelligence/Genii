@@ -1,0 +1,3 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-11-04 09:49:50,255670,2,iPhone 6,52.656452777778,5.0795194444444,Yes,"32, Grutto, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628BJ, Netherlands",2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+1,2021-11-04 09:49:52,253830,2,iPhone 6,52.656897222222,5.0797333333333,Yes,"IJsselweg, Blokker, Hoorn, North Holland, Netherlands, 1628BJ, Netherlands",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,3 @@
+,datetime,id,verification,phone,lat,lon,picked up,address,total_litter,SMOKING,FOOD,COFFEE,ALCOHOL,SOFTDRINKS,SANITARY,COASTAL,BRANDS,OTHER
+0,2021-05-12 08:11:11,162730,2,iPhone 6,52.651916666667,5.0785916666667,Yes,"51, Winterkoninkje, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628CH, The Netherlands",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+1,2021-05-12 08:12:16,178822,2,iPhone 6,52.652058333333,5.0797472222222,Yes,"Zaanweg, Kersenboogerd, Hoorn, North Holland, Netherlands, 1628AN, The Netherlands",3.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0
