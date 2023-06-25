@@ -1,11 +1,11 @@
 from matplotlib import pyplot as plt
-# from model_all import *
+from model_all import *
 # from model_all_onlylitter import *
 # from model_no_poi import *
 # from model_GCN import *
 # from model_nos import *
 # from model_baseline_GAT import *
-from model_baseline_GAT_onlylitter import *
+# from model_baseline_GAT_onlylitter import *
 # from model_baseline_GCN_onlylitter import *
 # from model_baseline_GCN import *
 from utils import *

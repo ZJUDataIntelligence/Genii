@@ -1,7 +1,7 @@
 from matplotlib import pyplot as plt
-# from Krommenie_model_all import *
+from Krommenie_model_all import *
 # from Krommenie_model_nopoi import *
-from Krommenie_model_GCN import *
+# from Krommenie_model_GCN import *
 # from Krommenie_model_nos import *
 # from Krommenie_model_baseline_GAT import *
 # from Krommenie_model_baseline_GCN import *

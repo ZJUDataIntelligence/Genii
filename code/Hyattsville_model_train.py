@@ -1,8 +1,8 @@
 from matplotlib import pyplot as plt
-# from Hyattsville_model_all import *
+from Hyattsville_model_all import *
 # from Hyattsville_model_nopoi import *
 # from Hyattsville_model_nos import *
-from Hyattsville_model_GCN import *
+# from Hyattsville_model_GCN import *
 # from Hyattsville_model_baseline_GCN import *
 # from Hyattsville_model_baseline_GAT import *
 from utils import *
